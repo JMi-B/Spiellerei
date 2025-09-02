@@ -1,0 +1,11 @@
+# Durchschnittskosten je Entscheidung berechnen Pythen
+avg_costs_decision = df.groupby("Entscheidung")["Kosten"].mean().reset_index()
+
+import caas_jupyter_tools
+caas_jupyter_tools.display_dataframe_to_user("Durchschnittskosten je Entscheidung", avg_costs_decision)
+
+Ergebnis
+   Entscheidung     Kosten
+0  Selbermachen  30.152174
+1      neu kauf  33.368421
+2      thrifted  34.985714

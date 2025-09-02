@@ -1,0 +1,12 @@
+# Durchschnittskosten je Kleidungsstück berechnen python
+avg_costs = df.groupby("Kleidungsstück")["Kosten"].mean().reset_index()
+
+import caas_jupyter_tools
+caas_jupyter_tools.display_dataframe_to_user("Durchschnittskosten je Kleidungsstück", avg_costs)
+
+	Kleidungsstück 	Kosten 
+0 	Bluse 			20.933333 
+1	Hose 			33.000000 
+2	Kleid			60.000000
+3	Rock 			18.823529
+4	T-Shirt			12.625000

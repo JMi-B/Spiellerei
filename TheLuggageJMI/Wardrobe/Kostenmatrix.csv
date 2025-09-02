@@ -1,0 +1,17 @@
+"T-Shirt","Selbermachen","Thriften","Kauf","Bewertung",,
+"Verbrauchsmaterial","2,50 €",0,0,"=B2","=C2","=D2"
+"Stoff","10,00 €",0,0,"=B3","=C3","=D3"
+"Zeitaufwand",4,4,1,"=SUMME(E2:E3)","=SUMME(F2:F3)","=SUMME(G2:G3)"
+"Schwierigkeitsgrad",2,1,1,"=E4*B5","=F4*C5","=G4*D5"
+"Preis",,4,15,"=B6","=C6","=D6"
+"Verfügbarkeit",1,10,1,"=SUMME(E5:E6)*B7","=SUMME(F5:F6)*C7","=SUMME(G5:G6)*D7"
+,,,,,,
+"Legende",,,,,,
+"Verbrauchsmaterial","Kosten für Verbrauchsmaterial in €",,,,,
+"Stoff","Kosten für Stoff kauf, Umfärben, Bestand €",,,,,
+"Zeitaufwand","in Pomodore ½ h",,,,,
+"Schwierigkeitsgrad","1-5",,,,,
+"Preis","bei Kauf in €",,,,,
+"Verfügbarkeit","In 1 Woche",,,,,
+,"In 3 Wochen",,,,,
+,"x",,,,,

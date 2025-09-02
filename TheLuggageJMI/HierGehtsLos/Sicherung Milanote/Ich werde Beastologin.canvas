@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"78044a0eac9bf055","type":"file","file":"Idee zur Krähenfee.md","x":-300,"y":-1054,"width":455,"height":194},
+		{"id":"8f81228548544028","type":"file","file":"HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md","x":-549,"y":-300,"width":400,"height":400},
+		{"id":"29de1ceece8c368b","type":"link","url":"https://app.milanote.com/media/p/images/1U0KM71zTMDLb1/32q/canvas_schreiben-250404_0747.png?w=800","x":-101,"y":-301,"width":400,"height":400},
+		{"id":"a555797a7e2ea6b7","type":"file","file":"HierGehtsLos/Sicherung Milanote/dryarde-250827_0619.md","x":-394,"y":-743,"width":400,"height":400},
+		{"id":"576a769edc9d90e3","type":"file","file":"HierGehtsLos/Sicherung Milanote/beasterdb-250827_0620.md","x":475,"y":-756,"width":400,"height":400},
+		{"id":"5ea98349fa3b5fce","type":"file","file":"HierGehtsLos/Sicherung Milanote/sekretariat-fr-zivilisation-und-beaster-250827_0622.md","x":-900,"y":-1060,"width":400,"height":400},
+		{"id":"d5eb2eee6248ba8d","type":"file","file":"HierGehtsLos/Sicherung Milanote/Steckbriefe-Steckbriefe.webp","x":-1020,"y":-301,"width":400,"height":173}
+	],
+	"edges":[]
+}
