@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "ead31656c57c42eb",
+    "id": "5f74fddc3bf654ff",
     "type": "split",
     "children": [
       {
-        "id": "1d834848d8cf3688",
+        "id": "24659f9876e2cf5c",
         "type": "tabs",
         "children": [
           {
-            "id": "921d75ad2781ea1e",
+            "id": "80553a2fb1281274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HierGehtsLos/Sicherung Milanote/strick-250902_0635.md",
+                "file": "sekretariat-fr-zivilisation-und-beaster-250827_0619.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strick-250902_0635"
-            }
-          },
-          {
-            "id": "08d3c45e338540ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-09-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-03"
+              "title": "sekretariat-fr-zivilisation-und-beaster-250827_0619"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3d09258e0a0bfadf",
+    "id": "d450c211b637fdbc",
     "type": "split",
     "children": [
       {
-        "id": "5093283256cca271",
+        "id": "81d507dae16ee238",
         "type": "tabs",
         "children": [
           {
-            "id": "61aab97008a5124c",
+            "id": "931edb22bd8cde66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "feb1957121c4e557",
+            "id": "1e8fdb91420668b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "83162d3dd3517dfb",
+            "id": "4462738511f489e4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ca620e30feba9517",
+    "id": "012cceb8a4ca5e39",
     "type": "split",
     "children": [
       {
-        "id": "b94b1356fe9d85c9",
+        "id": "65dff36c8c98d601",
         "type": "tabs",
         "children": [
           {
-            "id": "d30973316ae253a3",
+            "id": "be64e0b4d95dd87c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-09-02.md",
+                "file": "arbeitsuche-250826_0643.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 2025-09-02"
+              "title": "Rückverweise für arbeitsuche-250826_0643"
             }
           },
           {
-            "id": "38d7aa41ecd8e9d4",
+            "id": "2f18a481a5bbf12d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-09-02.md",
+                "file": "arbeitsuche-250826_0643.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2025-09-02 öffnen"
+              "title": "Ausgehende Links von arbeitsuche-250826_0643 öffnen"
             }
           },
           {
-            "id": "af574a88f115b0c2",
+            "id": "121b71437ebefcb7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +137,18 @@
             }
           },
           {
-            "id": "ee55f3737e70cdaf",
+            "id": "d6841fce41e81b9b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-09-02.md",
+                "file": "arbeitsuche-250826_0643.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-09-02"
+              "title": "Gliederung von arbeitsuche-250826_0643"
             }
           }
         ]
@@ -184,20 +169,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "08d3c45e338540ee",
+  "active": "80553a2fb1281274",
   "lastOpenFiles": [
-    "HierGehtsLos/Sicherung Milanote/nice-to-have-250901_0612.md",
-    "2025-09-03.md",
-    "HierGehtsLos/Sicherung Milanote/zum-wohnen-und-wohlfhlen-250902_0636.md",
-    "HierGehtsLos/Sicherung Milanote/strick-250902_0635.md",
-    "HierGehtsLos/Sicherung Milanote/strickprogramm-250827_0617.md",
-    "Zwischen Prüfung.md",
-    "HierGehtsLos/Sicherung Milanote/lernen-250827_0610.md",
-    "2025-09-02.md",
-    "PJ aus Mimion Bettlaken.md",
-    "Ideen Box.md",
-    "2025-08-29.md",
-    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
-    "zeiten-250718_0621.odt"
+    "sekretariat-fr-zivilisation-und-beaster-250827_0619.md",
+    "beasterdb-250827_0620.md",
+    "bibliothek-250827_0612.md",
+    "datenbank-250827_0611.md",
+    "tabellen-250827_0615.md",
+    "Unbenannt.base",
+    "tabellen-250827_0613.md",
+    "strickprogramm-250827_0617.md",
+    "sekretariat-fr-zivilisation-und-beaster-250827_0622.md",
+    "schultte-250826_1249.md",
+    "schreiben-250827_0619.md",
+    "lernen-250827_0610.md",
+    "dryarde-250827_0619.md",
+    "beziehungszeug-250827_0618.md",
+    "beasterdb-250827_0620(1).md",
+    "arbeitsuche-250827_0610.md",
+    "arbeitsuche-250826_0643.md",
+    "alles-fr-arbeit-250827_0610.md"
   ]
 }

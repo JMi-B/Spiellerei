@@ -1,6 +1,7 @@
 # WEihnachten
 
 ## Backen
+Starte ab Toten Sonntag 2025-11-23
 - [ ] 10 € aus der Dose extra für Zutaten p.W.
 - [ ] Mit jemandem zusammen machen, wichtiger als haben
 - [ ] Übersjahr verteilen
@@ -25,28 +26,26 @@
 - [ ] Milo
     - [x] Grafig Novel Bowie
     - [ ] Frosch Würfel Tasche
-- [ ] Taschen für Freunde
+- [ ] für Freunde
     - [x] Steff
-    - [x] Fea
+    - [ ] Fea
     - [ ] Anke
         - [x] Untersetzer, hatte sie letztes Jahr nicht
     - [ ] Kirsten
+	    - [ ] Tasche noch Ufo
 
-1. Was ist mir wichtig?
-        1. Gemeinschaft
-                1.     zusammen backen wichtiger als haben
-                2.     zusammen singen gerne auch Geld dabei sammeln
-        2.     Bummeln nicht kaufen
-        3. Oktober und November 
-                1.     planen und schmücken
-        4. Gottesdienst
-2. Was will ich nicht
+## Was ist mir wichtig? ##
+ 1. Gemeinschaft
+        1.     zusammen backen wichtiger als haben
+        2.     zusammen singen gerne auch Geld dabei sammeln
+        3.   Bummeln nicht kaufen
+2. September, Oktober und November 
+            1. planen und schmücken
+        5.  Gottesdienst
+3. Was will ich nicht
         1.     Adventskranz auf den letzten Drücker kaufen
         2.     Am 3. Advent noch nicht wissen was heilig Abend wird
-3. 30.11.2025 ist erster Advent
-4. Gut hat geklappt die Dose als 13. Monatsgehalt zu nutzen
-
-## Heimelig machen
+4. Heimelig machen
 - [ ] SChwippbogen
     - [ ] Leucht Stern
 - [x] WEihnachtsbaum
@@ -54,7 +53,9 @@
 - [ ] Plätzchen
 - [x] Lebkuchen
 - [x] Mandeln
-- [x] Advenskalender
+- [ ] Advenskalender
+	- [ ] plamo Tier
+	- [ ] Fenster
 - [ ] Deko
     - [ ] Türkranz
         - [ ] Hängt von 1. Advent bis 6.01.
@@ -64,5 +65,9 @@
     - [ ] Socken
 - [x] Baum
     - [x] Kübel für Balkon mit Lichtern
+
+### Gut hat geklappt die Dose als 13. Monatsgehalt zu nutzen
+
+Abräumen
 
 - [ ] Winterkranz in Weiss für Jan und Feb.
