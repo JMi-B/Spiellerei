@@ -13,6 +13,7 @@
     - Westen
 
 ### Kosten
+[[Simulierte Daten]]
 
 Was sind meine Kosten für selbstgemachte Garderobe?
 
@@ -32,7 +33,7 @@ Wann lohnt sich kauf?
 
 Bezugsmarken Idee von Reatro Cloude
 
-
+## Housecode ##
 - [ ] Bilbo Hobbit Housecode
     - [ ] Kimono
         - [ ] Bademantel aus Große Nähbuch
@@ -57,7 +58,7 @@ Bezugsmarken Idee von Reatro Cloude
 
     - Fleigermütze für Walküre
 
-## Gardrobe
+## [[Gardrobe]]
 - [ ] Selbst genähte Röcke
 - [ ] Westen
     - [ ] lernen Thrift zu ändern

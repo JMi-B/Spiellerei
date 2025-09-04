@@ -12,8 +12,7 @@
 		{"id":"2abd35bf7377094c","type":"file","file":"Wardrobe/Ziel.md","x":-62,"y":-720,"width":400,"height":400},
 		{"id":"4ad79d6402ad8ec6","type":"file","file":"Wardrobe/entscheidung_matrix.csv","x":349,"y":-112,"width":400,"height":400},
 		{"id":"5f98044ee7a6cc53","type":"file","file":"Wardrobe/Simulierte Daten.md","x":1160,"y":-720,"width":420,"height":460},
-		{"id":"e125eb927da95dca","type":"file","file":"Wardrobe/DurchschnittKosten.txt","x":1763,"y":-720,"width":400,"height":400},
-		{"id":"ca092e72fc0320be","type":"file","file":"HierGehtsLos/Sicherung Milanote/hose-250825_1702.md","x":-585,"y":240,"width":400,"height":400}
+		{"id":"e125eb927da95dca","type":"file","file":"Wardrobe/DurchschnittKosten.txt","x":1763,"y":-720,"width":400,"height":400}
 	],
 	"edges":[]
 }
