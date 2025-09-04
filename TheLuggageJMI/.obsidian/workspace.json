@@ -39,17 +39,10 @@
             "id": "a228b56078f100e4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Verbindung von Kleiderschrank und Anleinleitung.canvas",
-                "viewState": {
-                  "x": 1434,
-                  "y": -216,
-                  "zoom": -1.494876899625032
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Verbindung von Kleiderschrank und Anleinleitung"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           }
         ],
@@ -203,18 +196,19 @@
   },
   "active": "a228b56078f100e4",
   "lastOpenFiles": [
+    "2025-09-04.md",
+    "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
+    "Verbindung von Kleiderschrank und Anleinleitung.canvas",
     "Mein Schreibtisch.canvas",
     "2025-09-01.md",
     "HierGehtsLos/Sicherung Milanote/nherin-250901_0633.md",
     "HierGehtsLos/Sicherung Milanote/bro-frulein-250901_0633.md",
     "HierGehtsLos/Sicherung Milanote/steampunk-250901_0632.md",
-    "2025-09-04.md",
     "Gardrobe.md",
     "Zwischen Prüfung.md",
     "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
     "2025-08-29.md",
     "HierGehtsLos/Sicherung Milanote/rainbowwardrobe-250825_1702.md",
-    "Verbindung von Kleiderschrank und Anleinleitung.canvas",
     "Wardrobe/Simulierte Daten.md",
     "Wardrobe/Idee Warderobe.md",
     "Projekt anlegen.md",
