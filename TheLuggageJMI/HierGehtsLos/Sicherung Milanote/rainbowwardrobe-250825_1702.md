@@ -58,13 +58,14 @@ Bezugsmarken Idee von Reatro Cloude
 
     - Fleigermütze für Walküre
 
-## [[Gardrobe]]
+## [[Garderobe]]
 - [ ] Selbst genähte Röcke
 - [ ] Westen
-    - [ ] lernen Thrift zu ändern
+    - [ ] lernen zu Thriften
+    - [ ] zu ändern
     - [ ]
 - [ ] Hobbithosen
-    - [ ] Anzughosen umarbeitne
+    - [ ] Anzughosen umarbeiten
     - [ ] Chinos Thriften
     - [[hose-250825_1702]]
 - [ ] Flanellhemden
