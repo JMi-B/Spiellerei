@@ -17,4 +17,20 @@ Kopien von
 - Latzrock von Shine
 Hemden
 - zu Blusen um Arbeiten
+## Stil
+Steamcore
+- Bürofreulein
+- Radfahrkostüm
+- Rock und bluse
+	- Basics mit Spitze oder Rüschnen
+- Weste
+Hobbitcore
+- latzhosen und Röcke
+- Cord
+- Flanell
+### Silouette
+- Dirndl
+	- Obenkörper nah
+	- unten weit
+- Wadenlang
 ## Was habe ich im Heft?
