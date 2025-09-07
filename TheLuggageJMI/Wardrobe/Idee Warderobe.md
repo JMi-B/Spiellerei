@@ -8,4 +8,3 @@ Daraus ergibt sich eine Verbindung von dem DB Projekt zu meinem Versuch meine Kl
 [[Wardrobe/Ziel]]
 [[Simulierte Daten]]
 [[Vorgehensweise]]
-[[Projekt anlegen]]

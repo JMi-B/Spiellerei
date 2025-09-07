@@ -1,11 +1,14 @@
 # Kreativ
 ## Handarbeit
+#### Kleidung
 ### [[PJ aus Mimion Bettlaken]]
 - Einfaches Hemd
 	- Das Buch der Wäsche
 - Bloomers
 	- Kissenbezug
 	- Blaue Punkte
+#### Andere Dinge
+Odor nähen jersy
 ## Schreiben
 ## Steampunk
 # Haushalt

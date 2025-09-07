@@ -5,7 +5,7 @@ Möglichkeiten für Vorgehen
 - selber machen
 	- Strom und Wasser erstmal raus
 - ändern
-Kostenfaktoren[[rainbowwardrobe-250825_1702#Kosten]]
+Kostenfaktoren
 - Material
 - Zeitaufwand
 - Verfügbarkeit
