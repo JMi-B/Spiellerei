@@ -1,3 +1,15 @@
+#### Wo stehe ich?
+2025-09-05
+- IPv6 Subneting ich stehe auf dem Schlauch
+	- Unterlagen von Dennis
+	- https://www.elektronik-kompendium.de/sites/net/1902111.htm
+2025-09-08
+- [x] Portadressierung
+- [x]  OSI
+- [x] Hexadezimal Zahlen
+	- https://zahlensysteme-rechner.de/hexadezimal-dezimal/
+	- [ ] Tabelle dafür
+
 ## Stoff Teil I
 
 Rechner einrichten ist Stoff für die API I.
