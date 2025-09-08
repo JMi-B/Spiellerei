@@ -1,5 +1,6 @@
-# WEihnachten
-
+# Weihnachten
+[[2025-09-08#Lichterbogen]]
+[[2025-09-08#Adventskalender]]
 ## Backen
 Starte ab Toten Sonntag 2025-11-23
 - [ ] 10 € aus der Dose extra für Zutaten p.W.
