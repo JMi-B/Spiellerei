@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garderobe.md",
+                "file": "Obsidian Tips und Tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garderobe"
+              "title": "Obsidian Tips und Tricks"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-09-09.md",
+                "file": "Tagebuch/2025-08-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-09"
+              "title": "2025-08-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ufo",
+                "query": "wei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,23 +197,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "a357140dda12a2fe",
+  "active": "a2a1fe9dcf414d42",
   "lastOpenFiles": [
-    "Zwischen Prüfung.md",
-    "Tagebuch/2025-09-09.md",
+    "Obsidian Tips und Tricks.md",
+    "Garderobe.md",
+    "Tagebuch/2025-08-29.md",
+    "HierGehtsLos/Sicherung Milanote/nice-to-have-250901_0612.md",
+    "Deko Ideen Adventskalender.md",
+    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "Tagebuch/2025-09-08.md",
+    "Tagebuch/2025-09-03.md",
+    "Tagebuch/2025-09-09.md",
+    "Zwischen Prüfung.md",
     "HierGehtsLos/Sicherung Milanote/ufos-250905_0613.md",
     "HierGehtsLos/Sicherung Milanote/save-space-250830_0948.md",
     "Ideen Box.md",
-    "Tagebuch/2025-08-29.md",
     "Tagebuch",
     "HierGehtsLos/Sicherung Milanote/lernen-250827_0610.md",
     "Import von Milanote.md",
-    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "Tagebuch/2025-09-04.md",
     "Tagebuch/2025-09-05.md",
     "Tagebuch/2025-09-07.md",
-    "Garderobe.md",
     "HierGehtsLos/Sicherung Milanote/rainbowwardrobe-250825_1702.md",
     "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
     "Weiterbildungsprämie & Weiterbildungsgeld – Fragen und Antworten _ Bundesagentur für Arbeit.htm",
@@ -227,10 +230,6 @@
     "HierGehtsLos/Sicherung Milanote/bro-frulein-250901_0633.md",
     "HierGehtsLos/Sicherung Milanote/steampunk-250901_0632.md",
     "Wardrobe/Simulierte Daten.md",
-    "Wardrobe/Idee Warderobe.md",
-    "Projekt anlegen.md",
-    "HierGehtsLos/Sicherung Milanote/nice-to-have-250901_0612.md",
-    "Tagebuch/2025-09-03.md",
     "zeiten-250718_0621.odt"
   ]
 }
