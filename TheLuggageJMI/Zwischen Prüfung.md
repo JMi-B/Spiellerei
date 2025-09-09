@@ -9,6 +9,10 @@
 - [x] Hexadezimal Zahlen
 	- https://zahlensysteme-rechner.de/hexadezimal-dezimal/
 	- [ ] Tabelle dafür
+2025-09-08
+	- [ ] Ektrotechnik
+	- [ ] Hardware
+		- [ ] Bauteile
 
 ## Stoff Teil I
 
@@ -43,6 +47,12 @@ Laptop neu aufsetzen
 	3. Wichtige Dinge aufschreiben
 		1. OSi
 		2. Rechenweg
+			- [x] ipv4 Subnetzmasken
+			- [x] Hexadezimalzahlen 
+				- / 16 und Rest
+			- [x] Elektrotechnik
+				- P=U * I Leistung
+				- Kapazität (elektrische Arbeit) W = U * I * t
 5. Vokabelheft
 	1. Abkürzung | Bedeutung | Thema
 		1. Beginn mit OSi
@@ -57,6 +67,6 @@ Laptop neu aufsetzen
 7. Klausuren
 	1. Lösen Lücken füllen mit vorhandenm Material
 8. Zeitmanagment
-	1. Kurzzeitwecker
+	- [x] Kurzzeitwecker
 	 https://www.amazon.de/Asfrode-Schwerkraftsensor-Wiederaufladbarer-Kurzzeitwecker-Einstellbarem/dp/B0DHX945CH/ref=sr_1_14?\__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KKQKEELNG6BO&dib=eyJ2IjoiMSJ9.5A6jRv681FDl9-vm9uYDv9qwLq7xM4YaNTLKPrKxja2YeI_zYevHDLEzTPFzlggz8wwZNZaVkePj95I5nwvxBC73zXBEDIITn7z9F10ek7vZPvhqGw9RhnjANEW1xMj3MeqyCzRl4frYTYJCEOSCmgjWKmmkN-MT_fImz8QP2ljasErH9tBdoE7bTRrVJtubJ9lMLLAdlbE0EEneo18d_P440fPvxBGEOhPp6MEbxrMcfi9CKYOCer892m7qeB1Qqt_z36NgbxPep45aXqR2ceejqPDX2sJRQAMIC8vwf2Y.-6nENlXWchmAYai4g3f82XwxWAUtUELHSnjOClERdHA&dib_tag=se&keywords=vibrationswecker%2Bw%C3%BCrfel&qid=1756374450&sprefix=vibrationswecker%2Bw%C3%BCrfel%2Caps%2C118&sr=8-14&th=1
 	 
