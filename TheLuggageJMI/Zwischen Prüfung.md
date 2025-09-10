@@ -1,4 +1,4 @@
-#### Wo stehe ich?
+#### Wo stehe ich? 
 2025-09-05
 - IPv6 Subneting ich stehe auf dem Schlauch
 	- Unterlagen von Dennis
@@ -10,9 +10,20 @@
 	- https://zahlensysteme-rechner.de/hexadezimal-dezimal/
 	- [ ] Tabelle dafür
 2025-09-08
-	- [ ] Ektrotechnik
-	- [ ] Hardware
-		- [ ] Bauteile
+	- [x] Ektrotechnik
+	- [x] Hardware
+		- [x] Bauteile
+
+ 2025-09-10
+ - [ ] Berichtsheft drucken
+	- von der Cloude
+	- Cloud down
+- [x] Hardware
+	- [x] Bauteile
+- [x] WLan Standasts
+- Ich arbeite iterativ
+	- Karteikarten durchgehen
+	- Unklarheiten beseitigen
 
 ## Stoff Teil I
 

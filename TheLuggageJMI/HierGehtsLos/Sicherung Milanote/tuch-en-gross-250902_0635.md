@@ -4,19 +4,24 @@
 
 ### Handgestrickt
 
-- Landliebe Sommer wolle
-
+- ### Landliebe Sommer wolle
 - blau
-
 - 36 er
-
 - glatt rechts
-
 - von der Mitte aus
-
 - ca. 45 -etwas mehr als ein Kneul
-
 - 4 Nadel
+- ### Landliebe Sommer wolle
+- blau/ grün
+- 36 er
+- glatt rechts
+- von der Mitte aus
+- ca. 160
+	- -etwas mehr als drei Kneule
+- 4 Nadel
+- fast die richtige Größe
+- ? reicht die vorhande Wolle für ein 72er ?
+	- wiegen
 
 Sockenwolle nicht kuschelig genug
 
