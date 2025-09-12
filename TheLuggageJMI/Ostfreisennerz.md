@@ -23,3 +23,4 @@
 | \|Schwierigkeitsgrad |              |              |        |           |
 | \|Preis\|            |              |              |        |           |
 | \|Verfügbarkeit\|    |              |              |        |           |
+https://www.dedoles.de/lustiger-regenmantel-seerosen
