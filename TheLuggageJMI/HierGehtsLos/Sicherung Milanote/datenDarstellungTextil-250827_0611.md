@@ -1,6 +1,6 @@
 # Datenbank
 
-## Darstellung
+## Darstellung von Daten in Textilien
 
 ### Auswertung Textil darstellen
 
@@ -35,26 +35,25 @@ In der Stube kann ich noch mehr Decken oder Kissen nutzen
 - Bernina Hompage Snowball
         - [https://blog.bernina.com/de/tag/temperature-quilt-along/?filter=date](https://blog.bernina.com/de/tag/temperature-quilt-along/?filter=date)
 
-Neiderschlag mit einbeziehn
+#### Neiderschlag mit einbeziehn
 
-                - grün gelb
-                - 2 Ecken
+- grün gelb
+- 2 Ecken
 
-Temperatur
+#### Temperatur
+- blau lila rot
+	- -10 bis +40
+	- 5 Grad Schritte
+	- Höchst und niedrigste
+- Erstmal einer Anleitung folgen
 
-        - blau lila rot
-                - -10 bis +40
-                - 5 Grad Schritte
-        - Höchst und niedrigste
-        - Ertmal einer Anleitung folgen
-
-Start
-
+##### Start
 - Osten
 - 24.03.
-- Johanist Tag
+- Johannis Tag
+- Mein Geburstag
 
-Was ich erreichen will!
+### Was ich erreichen will!
 
 Zusammenhang Neiderschlag Temperatur
 

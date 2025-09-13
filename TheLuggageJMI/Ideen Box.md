@@ -8,6 +8,7 @@
 	- Kissenbezug
 	- Blaue Punkte
 #### Andere Dinge
+[[datenDarstellungTextil-250827_0611]]
 Odor nähen jersy
 ## Schreiben
 ## Steampunk

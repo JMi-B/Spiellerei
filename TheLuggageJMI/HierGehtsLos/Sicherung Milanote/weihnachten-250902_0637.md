@@ -1,10 +1,14 @@
 # Weihnachten
-[[2025-09-08#Lichterbogen]]
-[[2025-09-08#Adventskalender]]
+### Budget und Beschaffung
+- Spekulatius gibt es im September
+- Kerzen, Papier, etc. ab September kaufen
+- Nüsse und Backzutaten gezielt holen
+- Kompromiss Lebkuchen und Spekulatius für die Seson sind Totensonntag angeschafft.
+	- 23-11-2025
 
 ### [[Deko Ideen Adventskalender]]
-
-
+[[2025-09-08#Adventskalender]]
+[[2025-09-08#Lichterbogen]]
 ## Backen
 Starte ab Toten Sonntag 2025-11-23
 - [ ] 10 € aus der Dose extra für Zutaten p.W.
