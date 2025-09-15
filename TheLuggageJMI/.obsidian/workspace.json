@@ -63,8 +63,7 @@
               "title": "2025-09-14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0137ecef604219ff",
+  "active": "df1da80e9e828099",
   "lastOpenFiles": [
-    "Tagebuch/September/2025-09-14.md",
     "Tagebuch/September/2025-09-15.md",
+    "Tagebuch/September/2025-09-14.md",
     "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
     "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
     "HierGehtsLos/Sicherung Milanote/was-wann-wie-250828_0904.md",
