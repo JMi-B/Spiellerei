@@ -1,6 +1,6 @@
 ## [[Garderobe]]
 
-### - Was trage ich im Herbst und Winter?
+### Was trage ich im Herbst und Winter?
 	- Es hat Taschen
 	- Es engt nicht ein
 		- Beinfreiheit
