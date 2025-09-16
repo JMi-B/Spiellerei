@@ -22,36 +22,6 @@
           {
             "id": "0137ecef604219ff",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tagebuch/September/2025-09-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-09-15"
-            }
-          },
-          {
-            "id": "7e3ac11363cce3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "die-ps-250828_0903"
-            }
-          },
-          {
-            "id": "19a92fe6c2aee91c",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -69,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Röcke und Hosen.md",
+                "file": "2025-09-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Röcke und Hosen"
+              "title": "2025-09-16"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,13 +212,15 @@
   },
   "active": "f4738802e1520521",
   "lastOpenFiles": [
+    "Tagebuch/September/2025-09-14.md",
+    "Tagebuch/September/2025-09-15.md",
+    "2025-09-16.md",
+    "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
+    "Röcke und Hosen.md",
     "HierGehtsLos/Sicherung Milanote/ufos-250905_0613.md",
     "Wardrobe/Herbst Klamotten.md",
     "Wardrobe/Garderobe.md",
     "HierGehtsLos/Sicherung Milanote/rainbowwardrobe-250825_1702.md",
-    "Tagebuch/September/2025-09-15.md",
-    "Tagebuch/September/2025-09-14.md",
-    "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
     "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
     "HierGehtsLos/Sicherung Milanote/was-wann-wie-250828_0904.md",
     "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
@@ -268,8 +240,6 @@
     "Tagebuch/September/2025-09-12.md",
     "Wardrobe/lu132489fo58.tmp",
     "Tagebuch/September/2025-09-04.md",
-    "Tagebuch/September/2025-09-02.md",
-    "Tagebuch/September/2025-09-03.md",
     "Tagebuch/September",
     "HierGehtsLos/Sicherung Milanote/Ich werde Beastologin.canvas",
     "Tagebuch",
