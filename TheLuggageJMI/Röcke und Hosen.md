@@ -1,3 +1,4 @@
+[[hose-250825_1702]]
 ## Ufos 
 - Grüner Wollrock
 - Schwarzer Wollrock
@@ -18,7 +19,10 @@
 	2. Zwischen Keil und Pannel Vorne
 	3. Eingrifsstaschen im Pannel
 		1. Leistentasche
-Futter
+#### Futter
+-  Wolle braucht Futter
+	- A-Linie, vom zusammen gesetzten Rock abnehmen
+	- bevor die Falten geschlossen werden
 #### Verschluss
 Reisverschluss oder Variabel
 Reisverschluss
@@ -28,11 +32,23 @@ Reisverschluss
 - wenig Stoffverbrauch
 - zusatzkosten
 - sieht sauber aus
-18 Jh Pattycotte
+18 Jh. Patticoat
 - Stoffverbrauch
 	- breitere Bündchen
+	- Taschenteil mit Bündchen, bequem 
+		- nicht einschneiden nicht auftragen 
+		- Kein Futter zu sehen.
 - trägt auf mit Schleife oder Schnalle
-- Taschen können integriert werden
 - Latz oder Klappe
+	- - Taschen können integriert werden
+		- von der Seitennaht ausgehend
+		- [ ] Futter, Schürze einfügen
+		- [ ] in der Mitte teilen 
+		- [ ] Knöpfe oder Riegel als Verschuss
+		- Eingriff in die Taschen durch die Seitenöffnung
+			- Taschen selber Schürzentaschen
+				- nicht Hosentaschen.
 	- Knöpfe zum fixieren
-- Wieviel Spiel brauche ich eigentlich
+	- Vorderteil mit Knöpfen, Gürtel oder Schleife.
+- Wieviel Spiel brauche ich eigentlich?
+- 

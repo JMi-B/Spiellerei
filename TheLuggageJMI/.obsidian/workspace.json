@@ -23,12 +23,14 @@
             "id": "f4738802e1520521",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Juliane_Bonenkamp_DSC_6295s-02.jpg"
+                "file": "Röcke und Hosen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Juliane_Bonenkamp_DSC_6295s-02"
+              "icon": "lucide-file",
+              "title": "Röcke und Hosen"
             }
           },
           {
@@ -46,21 +48,21 @@
             }
           },
           {
-            "id": "b6ec1e40c4676ed3",
+            "id": "0c68ec1461a5f87f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-08-29.md",
+                "file": "HierGehtsLos/Sicherung Milanote/lila-reformkleid-250901_0632.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "lila-reformkleid-250901_0632"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,21 +224,24 @@
       "daily-notes:Heutige Notiz öffnen": false
     }
   },
-  "active": "f4738802e1520521",
+  "active": "0c68ec1461a5f87f",
   "lastOpenFiles": [
-    "Tagebuch/September/2025-09-21.md",
+    "Röcke und Hosen.md",
+    "HierGehtsLos/Sicherung Milanote/hose-250825_1702.md",
+    "Ideen Box.md",
+    "Tagebuch/September/2025-09-28.md",
     "Tagebuch/2025-08-29.md",
+    "Juliane_Bonenkamp_DSC_6295s-02.jpg",
+    "Tagebuch/September/2025-09-21.md",
     "Tagebuch/September/2025-09-20.md",
     "Tagebuch/September/2025-09-19.md",
     "Praktikum.md",
     "Tagebuch/September/2025-09-17.md",
     "Zwischen Prüfung.md",
-    "Juliane_Bonenkamp_DSC_6295s-02.jpg",
     "Tagebuch/September/2025-09-16.md",
     "Tagebuch/September/2025-09-14.md",
     "Tagebuch/September/2025-09-15.md",
     "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
-    "Röcke und Hosen.md",
     "HierGehtsLos/Sicherung Milanote/ufos-250905_0613.md",
     "Wardrobe/Herbst Klamotten.md",
     "Wardrobe/Garderobe.md",
@@ -249,9 +254,6 @@
     "HierGehtsLos/Sicherung Milanote/stoff-und-garn-250913_1616.md",
     "HierGehtsLos/Sicherung Milanote/kanban-fr-alle-themen-250829_0633.md",
     "HierGehtsLos/Sicherung Milanote/datenDarstellungTextil-250827_0611.md",
-    "HierGehtsLos/Sicherung Milanote/bibliothek-250827_0612.md",
-    "Tagebuch/September/2025-09-13.md",
-    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "Wardrobe/lu132489fo58.tmp",
     "Tagebuch/September",
     "HierGehtsLos/Sicherung Milanote/Ich werde Beastologin.canvas",

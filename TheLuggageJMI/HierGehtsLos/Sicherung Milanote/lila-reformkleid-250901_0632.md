@@ -1,3 +1,8 @@
+-  Wann und Wo tragen?
+- [ ] Die Biesen auftrennen
+	- zu schlampig
+	- Position ungenau
+	-  [ ] Falten per Hand heften
 # Lila Reformkleid
 
 
