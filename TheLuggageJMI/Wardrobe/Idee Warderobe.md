@@ -1,3 +1,4 @@
+#dbprojekt 
 Im Fachspezifischen II gab es am Tag 21 eine Aufgabe für ein kleines DPA Projekt.
 Ich habe von meiner AnleitungDB aus gehend eine  Idee gehabt.
 Vergleich der Kosten von neu Anschaffung und selber machen.
