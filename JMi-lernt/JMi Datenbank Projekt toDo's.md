@@ -1,0 +1,11 @@
+#sql #dbmodel #python #elt 
+- [x] ERM des aktuellen Stands der Datenbank
+	- [x] Reinfolge der Befüllung
+	- [x] unnötige FK löschen
+	- [ ] constraint für pdftexte berichtigen
+- [ ] Projekt
+	- [ ] Abhänigkeit zu festlegen ZwischenTabellen
+	- Technik
+	- Gegenstand
+	- Medien
+	- In AnleitungDB04 rausgenommen um das Eingaben zu erleichtern

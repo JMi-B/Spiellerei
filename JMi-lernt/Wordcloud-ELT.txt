@@ -1,0 +1,33 @@
+https://www.enreach.com/en/news-knowledge/blog/european-communications-market-at-a-crossroads
+ 
+1. Datei einlesen
+2. String words.split(" ")
+ 
+"Five Key Questions to Ask" => ["Five", "Key", "Questions", "To", "Ask"]
+ 
+3. Säubern mit Replace "end." => Replace(".", "") => "end"
+"-"
+","
+"."
+"welt" == "WELT" (word.upper(), word.lower())
+ 
+4. Worte in Dictionary einsortieren
+ 
+thisdict = dict(test = 1, nudelsuppe = 5, hilfe = 10, bla = 3)
+ 
+if "bla" in thisdict:
+	thisdict["bla"] += 5
+else:
+	thisdict["bla"] = 1
+
+ 
+print(thisdict["bla"])
+ 
+5. Worte in Datenbank ablegen (Spalte "Wort", Spalte "Anzahl")
+=> INSERT
+6. Word Cloud anzeigen
+ 
+ 
+=> ETL
+ 
+Extract. Transform. Load.

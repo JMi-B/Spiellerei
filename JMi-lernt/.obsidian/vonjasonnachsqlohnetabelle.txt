@@ -1,0 +1,12 @@
+Aufgabe
+Regelmäßig daten in Mysql-DB parken schreiben
+Immer einen neuen DS anhängen.
+
+Bis jetzt schreibe ich in json. Den schritt will ich umgehen.
+
+api aufrufen
+Mit vorhandener DB verbinden
+Daten der Api auwählen und verändern
+Neuen DS in die DB schteiben
+
+Automatisierung über Windows aufgabenplanung
