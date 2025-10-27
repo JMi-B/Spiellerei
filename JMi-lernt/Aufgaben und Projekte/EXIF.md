@@ -39,20 +39,20 @@ Eine Funktion kann selbst definiert werden.
 
 
 
-def ==getImageAndPrintExif==(path):
-    print("load image from "+ path)
-    img = Image.open(path)
-    exif = img.getexif()
-    for tag_id in exif:
-        tag = TAGS.get(tag_id, tag_id)
-        if (tag == "Make" or tag == "Model"):
-            data = exif.get(tag_id)
-            print(f"{tag:25}{str(data)}")
-    TODO: createNewCamera(make, model)
-path = "C:/Users/juliane.bonenkamp/src/JMiArbeit/exifAuslesen/Camera"
-files = os.listdir(path)
-print(files)
-for file in files:
+`def ==getImageAndPrintExif==(path):
+    `print("load image from "+ path)
+    `img = Image.open(path)
+    `exif = img.getexif()
+    `for tag_id in exif:
+      `  tag = TAGS.get(tag_id, tag_id)
+        `if (tag == "Make" or tag == "Model"):
+          `data = exif.get(tag_id)
+          `print(f"{tag:25}{str(data)}")
+    `TODO: createNewCamera(make, model)
+`path = "C:/Users/juliane.bonenkamp/src/JMiArbeit/exifAuslesen/Camera"
+`files = os.listdir(path)
+`print(files)
+`for file in files:
 
     getImageAndPrintExif(path +"/"+ file)
 

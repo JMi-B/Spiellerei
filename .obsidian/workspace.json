@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "d1b041563e031fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc050d22ab6cbca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee674cbdf8c4254f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Index fürs Berichtsheft"
+            }
+          },
+          {
+            "id": "333c7caa63f882e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JMi-lernt/Berichtsheft/2025-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-24"
+            }
+          },
+          {
+            "id": "68f145c31ff25de5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1f7fbd46e3ff2443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JMi-lernt/Berichtsheft/2025-10-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-15"
+            }
+          },
+          {
+            "id": "64478a410c885398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JMi-lernt/Programieren/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "082e2905a8270348",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33662cbe977213f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046d5824b91f23c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04bbe0ec036c7e85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Variablen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4dedae1fcbf144d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f4b6143851b66e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2988e20d9c6d1ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33be44be7dba6c66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JMi-lernt/Berichtsheft/2025-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-24"
+            }
+          },
+          {
+            "id": "4c01cecd51506735",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JMi-lernt/Berichtsheft/2025-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-10-24"
+            }
+          },
+          {
+            "id": "bbcb0379420d3eda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85b2cc57da124afa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JMi-lernt/Berichtsheft/2025-10-24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-10-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "64478a410c885398",
+  "lastOpenFiles": [
+    "JMi-lernt/Berichtsheft/2025-10-15.md",
+    "JMi-lernt/Berichtsheft/2025-10-10.md",
+    "JMi-lernt/Berichtsheft/2025-10-06.md",
+    "JMi-lernt/Berichtsheft/2025-10-27.md",
+    "JMi-lernt/JMi Datenbank Projekt toDo's.md",
+    "JMi-lernt/Material/Vokabeln.md",
+    "JMi-lernt/Berichtsheft/2025-10-14.md",
+    "JMi-lernt/Aufgaben und Projekte/EXIF.md",
+    "JMi-lernt/Berichtsheft/2025-10-24.md",
+    "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md"
+  ]
+}

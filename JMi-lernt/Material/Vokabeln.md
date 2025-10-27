@@ -7,6 +7,7 @@
 | www       | Subdomain                   |                                                                                                                              |
 | testseite | Domain                      |                                                                                                                              |
 | de        | Top Level Domain            |                                                                                                                              |
+| def       | Definition                  | Definiert eine Funkiton oder auch Methode                                                                                    |
 
 
 

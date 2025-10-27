@@ -5,7 +5,16 @@
 	- [ ] constraint für pdftexte berichtigen
 - [ ] Projekt
 	- [ ] Abhänigkeit zu festlegen ZwischenTabellen
-	- Technik
-	- Gegenstand
-	- Medien
+		- Technik
+		- Gegenstand
+		- Medien
 	- In AnleitungDB04 rausgenommen um das Eingaben zu erleichtern
+- [x] DB füllen
+- [x] Funktionen #funktion 
+	- [x] Insert Medium
+	- [x] Insert Buch
+	- [x] Insert Autor
+	- [x] insert Anleitung
+- [x] n:m-Verbindnungen zur AutorTabelle
+- [ ] Weitere Medienarten
+- [ ] Dubletten vermeiden
