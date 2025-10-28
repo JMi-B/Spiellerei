@@ -1,9 +1,11 @@
-#sql #dbmodel #python #elt 
+#sql #dbmodel #python #elt #meineRegel
+- Achte drauf die Variablen in der richtigen Reihenfolge zu übergeben. 
+	- **Meine Regel: in der Reihenfolge wie sie in der DatenCSV steht, werden die Variablen und Parameter übergeben.**
 - [x] ERM des aktuellen Stands der Datenbank
 	- [x] Reinfolge der Befüllung
 	- [x] unnötige FK löschen
 	- [ ] constraint für pdftexte berichtigen
-- [ ] Projekt
+- [ ] Projekttabelle
 	- [ ] Abhänigkeit zu festlegen ZwischenTabellen
 		- Technik
 		- Gegenstand
@@ -17,4 +19,6 @@
 	- [x] insert Anleitung
 - [x] n:m-Verbindnungen zur AutorTabelle
 - [ ] Weitere Medienarten
+	- [x] Zeitschriften
+	- [ ] pdf
 - [ ] Dubletten vermeiden

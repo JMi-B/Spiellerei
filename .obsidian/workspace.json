@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Programieren/Python.md",
+                "file": "JMi-lernt/Berichtsheft/2025-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "2025-10-28"
             }
           }
         ],
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,15 +228,17 @@
   },
   "active": "64478a410c885398",
   "lastOpenFiles": [
+    "JMi-lernt/JMi Datenbank Projekt toDo's.md",
+    "JMi-lernt/Berichtsheft/2025-10-28.md",
+    "JMi-lernt/Berichtsheft/2025-10-27.md",
     "JMi-lernt/Berichtsheft/2025-10-15.md",
+    "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md",
+    "JMi-lernt/Programieren/Python.md",
     "JMi-lernt/Berichtsheft/2025-10-10.md",
     "JMi-lernt/Berichtsheft/2025-10-06.md",
-    "JMi-lernt/Berichtsheft/2025-10-27.md",
-    "JMi-lernt/JMi Datenbank Projekt toDo's.md",
     "JMi-lernt/Material/Vokabeln.md",
     "JMi-lernt/Berichtsheft/2025-10-14.md",
     "JMi-lernt/Aufgaben und Projekte/EXIF.md",
-    "JMi-lernt/Berichtsheft/2025-10-24.md",
-    "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md"
+    "JMi-lernt/Berichtsheft/2025-10-24.md"
   ]
 }
