@@ -22,3 +22,9 @@
 	- [x] Zeitschriften
 	- [ ] pdf
 - [ ] Dubletten vermeiden
+	- [ ] medium
+		- [ ] Buch
+		- [ ] Zeitschrift
+	- [ ] Autor
+	- [ ] Anleitung
+		- [ ] Zwischentabelle
