@@ -1,3 +1,4 @@
+#python 
 Tipps und Tricks
 Zeilenumbruch bei langem insert 
 sql = "insert into tabele(col1, col2)values(%s,%s)

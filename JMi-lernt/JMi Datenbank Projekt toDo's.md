@@ -1,4 +1,4 @@
-#sql #dbmodel #python #elt #meineRegel
+#sql #dbmodel #python #elt #meineRegel #workflow 
 - Achte drauf die Variablen in der richtigen Reihenfolge zu übergeben. 
 	- **Meine Regel: in der Reihenfolge wie sie in der DatenCSV steht, werden die Variablen und Parameter übergeben.**
 - [x] ERM des aktuellen Stands der Datenbank
@@ -21,10 +21,14 @@
 - [ ] Weitere Medienarten
 	- [x] Zeitschriften
 	- [ ] pdf
-- [ ] Dubletten vermeiden
-	- [ ] medium
-		- [ ] Buch
-		- [ ] Zeitschrift
-	- [ ] Autor
-	- [ ] Anleitung
-		- [ ] Zwischentabelle
+- [x] Dubletten vermeiden
+	- [x] medium
+		- [x] Buch
+		- [x] Zeitschrift
+	- [x] Autor
+	- [x] Anleitung
+		- [x] Zwischentabelle
+- [ ] Verbindung mit der Datenbank nicht von Anfang an öffnen
+	- [ ] Daten auslesen und in Json schreiben
+	- [ ] aus Json insert in DB
+		- [ ] Brauche ich mehrere Json ?
