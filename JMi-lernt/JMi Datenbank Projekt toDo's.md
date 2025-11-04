@@ -21,6 +21,12 @@
 - [ ] Weitere Medienarten
 	- [x] Zeitschriften
 	- [ ] pdf
+		- [ ] wie sieht die Tabelle für pdfs aus
+	- [ ] Erweiterung der Tabelle Schnittmuster für PDFs
+		-  Manche Schnittmuster sind PDFs
+			- Diese müssen ausgedruckt werden
+			- Aufruf der Datei aus der DB heraus
+	- [ ] 
 - [x] Dubletten vermeiden
 	- [x] medium
 		- [x] Buch
@@ -32,3 +38,19 @@
 	- [ ] Daten auslesen und in Json schreiben
 	- [ ] aus Json insert in DB
 		- [ ] Brauche ich mehrere Json ?
+	- Macht beim normalem Befüllen keinen Sinn
+		- Für pdf oder einzelne Tabellen 
+# Regeln für meine Datensätze
+| Tabelle   | Spalte        | Typ  | Schlüssel | Null |
+| --------- | ------------- | ---- | --------- | ---- |
+| medium    | MediumID      | Int  | PK        | NN   |
+|           | TitelMedium   | var  |           | NN   |
+|           | MedienArt     | enum |           | NN   |
+| Anleitung | AnleitungID   | Int  | PK        | NN   |
+|           | NameAnleitung | var  |           | NN   |
+|           | Seitenzahl    | int  |           | NN   |
+|           | MediumID      | Int  | FK        | NN   |
+| Autor     | AutiorID      | int  | PK        | NN   |
+|           | Nachname      | var  |           |      |
+|           | Vorname       | var  |           |      |
+|           | Firma         | var  |           |      |

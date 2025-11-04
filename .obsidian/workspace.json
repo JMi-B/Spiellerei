@@ -38,6 +38,7 @@
           {
             "id": "acdb5b4972349a1b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,40 +46,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "JMi Datenbank Projekt toDo's"
             }
           },
           {
-            "id": "af6acf7596364a76",
+            "id": "a7b08dc695e4d644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Programieren/Python.md",
+                "file": "JMi-lernt/Berichtsheft/2025-11-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "facd3f931d2c63c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JMi-lernt/Meine Vorstellungen/Ressourcen für DAPA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ressourcen für DAPA"
+              "title": "2025-11-04"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "print",
+                "query": "tag:#pdf2Text",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +119,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,34 +215,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "facd3f931d2c63c4",
+  "active": "a7b08dc695e4d644",
   "lastOpenFiles": [
-    "JMi-lernt/Meine Vorstellungen/Fragen zu Klausuren.md",
+    "JMi-lernt/JMi Datenbank Projekt toDo's.md",
+    "JMi-lernt/Berichtsheft/2025-11-04.md",
+    "JMi-lernt/Berichtsheft/2025-10-24.md",
+    "Pasted image 20251104124345.jpg",
+    "JMi-lernt/Berichtsheft/2025-10-23.md",
+    "JMi-lernt/Berichtsheft/2025-10-28.md",
+    "JMi-lernt/Berichtsheft/2025-10-29.md",
+    "JMi-lernt/Berichtsheft/2025-10-30.md",
+    "JMi-lernt/Berichtsheft/2025-10-27.md",
+    "localhost _ 127.0.0.1 _ anleitungdb04 _ pdftexte _ phpMyAdmin 5.2.1.pdf",
+    "JMi-lernt/Programieren/Http.md",
+    "JMi-lernt/Berichtsheft/2025-10-21.md",
+    "JMi-lernt/Berichtsheft/2025-10-20.md",
+    "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md",
+    "JMi-lernt/Berichtsheft/2025-10-31.md",
+    "JMi-lernt/Berichtsheft/2025-11-03.md",
+    "JMi-lernt/Programieren/ELT.md",
     "JMi-lernt/Meine Vorstellungen/Ressourcen für DAPA.md",
+    "JMi-lernt/Meine Vorstellungen/Fragen zu Klausuren.md",
     "JMi-lernt/Material/Tools und Resourcen.md",
     "JMi-lernt/Material/Lern Recherche Aufgaben.md",
     "JMi-lernt/Programieren/Python.md",
     "JMi-lernt/Programieren/SQL Tipps und Tricks.md",
     "JMi-lernt/Aufgaben und Projekte/OpenCV.md",
-    "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md",
     "JMi-lernt/Erste Seite.md",
     "JMi-lernt/Start.md",
-    "JMi-lernt/JMi Datenbank Projekt toDo's.md",
-    "JMi-lernt/Berichtsheft/2025-11-03.md",
-    "JMi-lernt/Berichtsheft/2025-10-31.md",
-    "JMi-lernt/Berichtsheft/2025-10-23.md",
-    "JMi-lernt/Berichtsheft/2025-10-30.md",
-    "JMi-lernt/Berichtsheft/2025-10-29.md",
-    "JMi-lernt/Berichtsheft/2025-10-28.md",
     "TheLuggageJMI/Wardrobe/Projekt anlegen.md",
-    "JMi-lernt/Material/Vokabeln.md",
-    "JMi-lernt/Aufgaben und Projekte/EXIF.md",
-    "JMi-lernt/Berichtsheft/2025-10-15.md",
-    "JMi-lernt/Berichtsheft/2025-10-14.md",
-    "EntscheidungsbaumExistiertDS.drawio",
-    "JMi-lernt/Programieren/ELT.md",
-    "JMi-lernt/Berichtsheft/2025-10-27.md",
-    "JMi-lernt/Berichtsheft/2025-10-10.md",
-    "JMi-lernt/Berichtsheft/2025-10-06.md"
+    "EntscheidungsbaumExistiertDS.drawio"
   ]
 }
