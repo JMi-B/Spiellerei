@@ -20,8 +20,8 @@
 - [x] n:m-Verbindnungen zur AutorTabelle
 - [ ] Weitere Medienarten
 	- [x] Zeitschriften
-	- [ ] pdf
-		- [ ] wie sieht die Tabelle für pdfs aus
+	- [x] pdf
+		- [x] wie sieht die Tabelle für pdfs aus
 	- [ ] Erweiterung der Tabelle Schnittmuster für PDFs
 		-  Manche Schnittmuster sind PDFs
 			- Diese müssen ausgedruckt werden
@@ -37,20 +37,29 @@
 - [ ] Verbindung mit der Datenbank nicht von Anfang an öffnen
 	- [ ] Daten auslesen und in Json schreiben
 	- [ ] aus Json insert in DB
-		- [ ] Brauche ich mehrere Json ?
+		- Brauche ich mehrere Json ?
 	- Macht beim normalem Befüllen keinen Sinn
 		- Für pdf oder einzelne Tabellen 
+- [ ] Einlesen von Texten in die DB
+	- [ ] py aus der alten Vorlage neu bauen
+	- [ ] DB Anbindung erst nach dem alle Texte erstellt sind
+		- [ ] Zwischenspeichern als Json?
 # Regeln für meine Datensätze
-| Tabelle   | Spalte        | Typ  | Schlüssel | Null |
-| --------- | ------------- | ---- | --------- | ---- |
-| medium    | MediumID      | Int  | PK        | NN   |
-|           | TitelMedium   | var  |           | NN   |
-|           | MedienArt     | enum |           | NN   |
-| Anleitung | AnleitungID   | Int  | PK        | NN   |
-|           | NameAnleitung | var  |           | NN   |
-|           | Seitenzahl    | int  |           | NN   |
-|           | MediumID      | Int  | FK        | NN   |
-| Autor     | AutiorID      | int  | PK        | NN   |
-|           | Nachname      | var  |           |      |
-|           | Vorname       | var  |           |      |
-|           | Firma         | var  |           |      |
+| Tabelle   | Spalte        | Enum        | Typ  | Schlüssel | Null |
+| --------- | ------------- | ----------- | ---- | --------- | ---- |
+| medium    | MediumID      |             | Int  | PK        | NN   |
+|           | TitelMedium   |             | var  |           | NN   |
+|           | MedienArt     |             | enum |           | NN   |
+|           |               | Buch        |      |           |      |
+|           |               | Zeitschrift |      |           |      |
+|           |               | Flyer       |      |           |      |
+|           |               | Datei       |      |           |      |
+|           |               | Website     |      |           |      |
+| Anleitung | AnleitungID   |             | Int  | PK        | NN   |
+|           | NameAnleitung |             | var  |           | NN   |
+|           | Seitenzahl    |             | int  |           | NN   |
+|           | MediumID      |             | Int  | FK        | NN   |
+| Autor     | AutiorID      |             | int  | PK        | NN   |
+|           | Nachname      |             | var  |           |      |
+|           | Vorname       |             | var  |           |      |
+|           | Firma         |             | var  |           |      |
