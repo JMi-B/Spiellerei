@@ -17,3 +17,6 @@ Mit
 
 kann ich überprüfen welche constraint gesetzt sind. Das ist wichtig wenn ein foren Key ins leere zeigt. Dann den constrain droppen um die collumn löschen zu können.
 
+# [[SQL#Das Select Sieb]]
+
+#sql #selct #join 
