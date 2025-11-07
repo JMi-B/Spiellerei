@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/JMi Datenbank Projekt toDo's.md",
+                "file": "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,40 +52,12 @@
             }
           },
           {
-            "id": "a7b08dc695e4d644",
+            "id": "c972b7c0a3a1bc66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Berichtsheft/2025-11-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-05"
-            }
-          },
-          {
-            "id": "c7537b0045863f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JMi-lernt/Berichtsheft/2025-10-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-15"
-            }
-          },
-          {
-            "id": "6775b378c404589d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL.md",
+                "file": "JMi-lernt/Programieren/SQL.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,35 +66,21 @@
             }
           },
           {
-            "id": "36fb6c9c52bfc8fd",
+            "id": "7b347858c945f562",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Berichtsheft/2025-11-06.md",
+                "file": "JMi-lernt/Berichtsheft/2025-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-06"
-            }
-          },
-          {
-            "id": "90d0063a2f24d3f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JMi-lernt/Programieren/SQL Tipps und Tricks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL Tipps und Tricks"
+              "title": "2025-11-07"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#join",
+                "query": "tag:#pdf2Text",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,11 +133,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0f4b6143851b66e0",
@@ -270,27 +230,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "6775b378c404589d",
+  "active": "7b347858c945f562",
   "lastOpenFiles": [
+    "JMi-lernt/Programieren/SQL.md",
+    "JMi-lernt/Berichtsheft/2025-11-07.md",
     "JMi-lernt/Berichtsheft/2025-11-06.md",
-    "SQL.md",
     "JMi-lernt/Berichtsheft/2025-11-05.md",
-    "JMi-lernt/Programieren/SQL Tipps und Tricks.md",
     "soccer.sql",
+    "patienten.sql",
+    "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
     "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md",
-    "JMi-lernt/JMi Datenbank Projekt toDo's.md",
+    "JMi-lernt/Meine Datenbank/localhost _ 127.0.0.1 _ anleitungdb04 _ pdftexte _ phpMyAdmin 5.2.1.pdf",
+    "JMi-lernt/Meine Datenbank",
+    "JMi-lernt/Programieren/Pasted image 20251104124345.jpg",
+    "JMi-lernt/Programieren/SQL Tipps und Tricks.md",
     "JMi-lernt/Berichtsheft/2025-11-04.md",
     "JMi-lernt/Berichtsheft/2025-10-15.md",
     "JMi-lernt/Berichtsheft/2025-10-13.md",
     "JMi-lernt/Berichtsheft/2025-10-10.md",
     "JMi-lernt/Berichtsheft/2025-10-24.md",
     "JMi-lernt/Berichtsheft/2025-10-23.md",
-    "Pasted image 20251104124345.jpg",
     "JMi-lernt/Berichtsheft/2025-10-28.md",
     "JMi-lernt/Berichtsheft/2025-10-29.md",
     "JMi-lernt/Berichtsheft/2025-10-30.md",
     "JMi-lernt/Berichtsheft/2025-10-27.md",
-    "localhost _ 127.0.0.1 _ anleitungdb04 _ pdftexte _ phpMyAdmin 5.2.1.pdf",
     "JMi-lernt/Programieren/Http.md",
     "JMi-lernt/Berichtsheft/2025-10-21.md",
     "JMi-lernt/Berichtsheft/2025-10-20.md",
@@ -299,7 +262,6 @@
     "JMi-lernt/Programieren/ELT.md",
     "JMi-lernt/Meine Vorstellungen/Ressourcen für DAPA.md",
     "JMi-lernt/Meine Vorstellungen/Fragen zu Klausuren.md",
-    "JMi-lernt/Material/Tools und Resourcen.md",
     "EntscheidungsbaumExistiertDS.drawio"
   ]
 }
