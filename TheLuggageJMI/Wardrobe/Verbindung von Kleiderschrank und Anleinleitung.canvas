@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"51aad48c037bc70b","type":"file","file":"Vorgehensweise.md","x":578,"y":-720,"width":342,"height":320},
+		{"id":"51aad48c037bc70b","type":"file","file":"Wardrobe/Vorgehensweise.md","x":578,"y":-720,"width":342,"height":320},
 		{"id":"57bbec0482b2ab0a","type":"file","file":"Wardrobe/entscheidung_matrix02.csv","x":828,"y":-112,"width":400,"height":400},
 		{"id":"3eb5887866ee370b","type":"file","file":"Wardrobe/entscheidung_matrix03.csv","x":1273,"y":-112,"width":400,"height":400},
 		{"id":"31aca1d85700d63e","type":"file","file":"Wardrobe/Entscheidungskosten.txt","x":1718,"y":-112,"width":400,"height":400},

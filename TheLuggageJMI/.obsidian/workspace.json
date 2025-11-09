@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a63d08bdfa0c1f4d",
+        "id": "27968fdab982d416",
         "type": "tabs",
         "children": [
           {
-            "id": "a58c816052b60c81",
+            "id": "d30e24721a987725",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HierGehtsLos/Sicherung Milanote/Import von Milanote.md",
-                "mode": "source",
-                "source": false
+                "file": "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Import von Milanote"
+              "icon": "lucide-file-text",
+              "title": "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099"
             }
           }
         ],
@@ -45,7 +43,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -54,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ufo",
+                "query": "adve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,23 +173,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "bases:Create new base": false
     }
   },
-  "active": "61aab97008a5124c",
+  "active": "d30e24721a987725",
   "lastOpenFiles": [
+    "Backlog/Ideen Box.md",
+    "Backlog/Wie geht es weiter.md",
+    "Praktikum.md",
+    "Obsidian Tips und Tricks.md",
+    "Juliane_Bonenkamp_DSC_6295s-02.jpg",
+    "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
+    "Backlog/Arbeitsplatz.md",
+    "Backlog/Deko Ideen Adventskalender.md",
+    "Backlog/Unbenannt.md",
+    "Backlog",
+    "Backlog/Das Sekretariat wird gegründet.md",
+    "Wardrobe/Vorgehensweise.md",
     "HierGehtsLos/Wie geht es weiter.md",
-    "Deko Ideen Adventskalender.md",
+    "Wardrobe/Verbindung von Kleiderschrank und Anleinleitung.canvas",
+    "Backlog/Mein Schreibtisch.canvas",
+    "Wardrobe/Röcke und Hosen.md",
+    "Tagebuch/September/2025-09-08.md",
+    "Backlog Material/Schreibtisch",
+    "Backlog Material",
+    "Tagebuch/2025-11-02.md",
     "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "HierGehtsLos/Sicherung Milanote/Import von Milanote.md",
-    "Ideen Box.md",
-    "Röcke und Hosen.md",
     "Tagebuch/September/2025-09-28.md",
     "Tagebuch/September/2025-09-25.md",
     "Tagebuch/September/2025-09-21.md",
@@ -203,25 +217,12 @@
     "Tagebuch/September/2025-09-14.md",
     "Tagebuch/September/2025-09-13.md",
     "Tagebuch/September/2025-09-12.md",
-    "Tagebuch/September/2025-09-11.md",
-    "Tagebuch/September/2025-09-10.md",
-    "Tagebuch/September/2025-09-09.md",
-    "Tagebuch/September/2025-09-08.md",
-    "Tagebuch/September/2025-09-07.md",
-    "Tagebuch/September/2025-09-05.md",
-    "Tagebuch/September/2025-09-04.md",
-    "Tagebuch/September/2025-09-03.md",
-    "Tagebuch/September/2025-09-02.md",
-    "Juliane_Bonenkamp_DSC_6295s-02.jpg",
     "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
     "Wardrobe/lu132489fo58.tmp",
     "Tagebuch/September",
     "HierGehtsLos/Sicherung Milanote/Ich werde Beastologin.canvas",
     "Tagebuch",
     "Weiterbildungsprämie & Weiterbildungsgeld – Fragen und Antworten _ Bundesagentur für Arbeit.htm",
-    "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
-    "Verbindung von Kleiderschrank und Anleinleitung.canvas",
-    "Mein Schreibtisch.canvas",
     "zeiten-250718_0621.odt"
   ]
 }
