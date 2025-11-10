@@ -35,15 +35,17 @@
 	- [x] Anleitung
 		- [x] Zwischentabelle
 - [ ] Verbindung mit der Datenbank nicht von Anfang an öffnen
-	- [ ] Daten auslesen und in Json schreiben
-	- [ ] aus Json insert in DB
+	- [x] Daten auslesen und in Json schreiben
+	- [x] aus Json insert in DB
 		- Brauche ich mehrere Json ?
 	- Macht beim normalem Befüllen keinen Sinn
 		- Für pdf oder einzelne Tabellen 
 - [ ] Einlesen von Texten in die DB
 	- [ ] py aus der alten Vorlage neu bauen
+		- [ ] Text erstellen
+		- [ ] jpg aufräumen
 	- [ ] DB Anbindung erst nach dem alle Texte erstellt sind
-		- [ ] Zwischenspeichern als Json?
+		- [x] Zwischenspeichern als txt
 # Regeln für meine Datensätze
 | Tabelle   | Spalte        | Enum        | Typ  | Schlüssel | Null |
 | --------- | ------------- | ----------- | ---- | --------- | ---- |
