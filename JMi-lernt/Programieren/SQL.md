@@ -381,7 +381,7 @@ Die Ergebnisse stehen in einer Tabelle haben aber nichts miteinander zu tun. Nur
 Tabelle player_matches
 Vom groben zum feinen kommen.
 ### Das Select Sieb
-#select #join 
+#select #join #SelectSieb
 - Tabellen über join Verbinden 
 	- `player_matches` enthält Informationen zu `players` und `matches` in Form von `player_id` und `match_id`
 		- für beide wird ein `join` erstellt
