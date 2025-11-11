@@ -1,6 +1,18 @@
 # Kreativ
 - Rose und Puppy um Haltung zu zeigen
 - Emschequalle
+- Türschild - Howl's Casel
+	- schwarz ist Home
+## Garderobe
+- Puschen
+- Gürtellschlaufen für blaue Hose
+## Jahreszeiten
+### Herbst
+- St. Martin
+	- Laterne
+	- Flying Geese
+	- Playmobil
+	- Türkranz
 # Declutter
 ## Routine entwickeln
 - [ ] Bügeln
@@ -11,7 +23,7 @@
 # Schreibtisch
 - [ ] Laptop Winwows verlängern.
 	- Lizenslink von CC in Mail
--  [ ] Monitor
+- [ ] Monitor
 ## Routine
 ## Kontroll Journal
 - [ ] Backlog
@@ -20,6 +32,8 @@
 	- [ ] To Do mit terminieren
 	- [ ] Modebords / Projekte / Mindmap
 	- [ ] Icons
+	- [ ] Gliederung zur Navigation 
+		- [ ] Aufteilung in Dokumente
 ## Meine Datenbank
 - [ ] Neue DS aus aktuellen Heften
 ### KARKEBO
@@ -49,10 +63,16 @@
 - [ ] Büroteekanne
 	-  erstmal xBox Flasche
 - [ ] [[nice-to-have-250901_0612]]
-- [ ] Nadelfile und Handcreme für Büro
+- [ ] Nagelfile und Handcreme für Büro
 # Weihnachten
 - [ ] Mandeln
 - [ ] Linzertorte - für ZSZZ
 - [ ] Klezenbrot?
 - [[Deko Ideen Adventskalender]]
 -  [[weihnachten-250902_0637]]
+# Ressourcen
+- Playlist Wildkirschtee 
+	- ruhig, kämpferisch, etwas Deprie
+	- Joan Beaz
+	- Elvis - In the Ghetto
+	- Cat Steven
