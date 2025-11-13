@@ -1,3 +1,15 @@
+# Mentaler Platz
+- Dönekens umsetzten
+	- gezielt dafür kaufen
+	- Klein anfangen
+		- Moosverzieren mit Playmo
+		- Lichterketten aufhängen
+	- Dinge anfangen wenn ich sie plane
+		- Martins Dekoration kann ein 1/2 Jahr liegen
+	- Meinen Workflow von der Arbeit nutzen
+		- Aufgabe Analysieren
+		- Materialsammeln
+		- "Tabellen und Spalten anzeigen"
 # Kreativ
 - Rose und Puppy um Haltung zu zeigen
 - Emschequalle
@@ -6,6 +18,7 @@
 ## Garderobe
 - Puschen
 - Gürtellschlaufen für blaue Hose
+	- Band flechten oder knüpfen
 ## Jahreszeiten
 ### Herbst
 - St. Martin
