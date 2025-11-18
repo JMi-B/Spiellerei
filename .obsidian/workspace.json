@@ -86,20 +86,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Berichtsheft/2025-11-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-13"
-            }
-          },
-          {
-            "id": "36678c581359f5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "JMi-lernt/Berichtsheft/17-21 November.md",
                 "mode": "source",
                 "source": false
@@ -114,16 +100,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Berichtsheft/2025-11-14.md",
+                "file": "JMi-lernt/Berichtsheft/2025-11-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-14"
+              "title": "2025-11-18"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "ddc58d876b263da5",
@@ -136,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JMi-lernt/Berichtsheft/2025-11-14.md",
+                "file": "JMi-lernt/Berichtsheft/2025-11-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-14"
+              "title": "Outline of 2025-11-18"
             }
           }
         ]
@@ -177,12 +163,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "swyx user",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -293,18 +279,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "45159dfd22b70ed4",
+  "active": "046d5824b91f23c1",
   "lastOpenFiles": [
-    "JMi-lernt/Berichtsheft/2025-11-13.md",
-    "JMi-lernt/Berichtsheft/2025-11-12.md",
-    "JMi-lernt/Berichtsheft/2025-11-14.md",
-    "Screenshot 2025-11-14 134721.png",
     "JMi-lernt/Berichtsheft/Index fürs Berichtsheft.md",
+    "JMi-lernt/Berichtsheft/2025-11-18.md",
+    "JMi-lernt/Berichtsheft/2025-11-17.md",
+    "JMi-lernt/Berichtsheft/17-21 November.md",
+    "JMi-lernt/Berichtsheft/2025-11-14.md",
+    "Untitled",
+    "JMi-lernt/Berichtsheft/2025-11-12.md",
+    "JMi-lernt/Berichtsheft/2025-11-11.md",
+    "JMi-lernt/Berichtsheft/2025-11-13.md",
+    "Screenshot 2025-11-14 134721.png",
     "JMi-lernt/Berichtsheft/Oktober/2025-10-14.md",
     "JMi-lernt/Berichtsheft/Oktober/2025-10-23.md",
     "JMi-lernt/Meine Datenbank/EntscheidungsbaumExistiertDS.drawio",
     "gitignore 1",
-    "JMi-lernt/Berichtsheft/17-21 November.md",
     "JMi-lernt/Berichtsheft/Screenshot 2025-11-13 135722.png",
     "JMi-lernt/swyxon/Pasted image 20251113142508.png",
     "JMi-lernt/Berichtsheft/Screenshot 2025-11-13 162947.png",
@@ -315,7 +305,6 @@
     "JMi-lernt/Berichtsheft/Screenshot 2025-11-13 142205 1.png",
     "JMi-lernt/Berichtsheft/Screenshot 2025-11-13 142205.png",
     "TheLuggageJMI/Backlog/November Aufteilung.md",
-    "JMi-lernt/Berichtsheft/2025-11-11.md",
     "JMi-lernt/Berichtsheft/2025-11-10.md",
     "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
     "JMi-lernt/Programieren/SQL.md",
@@ -337,7 +326,6 @@
     "JMi-lernt/Berichtsheft/Oktober/2025-10-10.md",
     "JMi-lernt/Berichtsheft/Oktober/2025-10-24.md",
     "JMi-lernt/Berichtsheft/Oktober/2025-10-28.md",
-    "JMi-lernt/Berichtsheft/Oktober/2025-10-29.md",
     "EntscheidungsbaumExistiertDS.drawio"
   ]
 }
