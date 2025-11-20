@@ -1,5 +1,5 @@
 Hier sammele ich 
-[[Index fürs Berichtsheft]]
+[[Index für Workdiary]]
 [[Start]]
 [[Liste abrufen und in eigener Datenbank ablegen]]
 [[Python]]
