@@ -8,45 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d30e24721a987725",
+            "id": "611cdfcfce5e4675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/November Aufteilung.md",
+                "file": "Handarbeit UFO Liste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November Aufteilung"
+              "title": "Handarbeit UFO Liste"
             }
           },
           {
-            "id": "315c923d8244cf92",
+            "id": "4b95aa3852197a56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Tagebuch/2025-11-15.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "2025-11-15"
-            }
-          },
-          {
-            "id": "59e242585428ad83",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,12 +66,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emsche",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               },
               "icon": "lucide-search",
               "title": "Suchen"
@@ -119,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "right": {
     "id": "ca620e30feba9517",
@@ -197,29 +184,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
+      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Create new base": false
+      "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "315c923d8244cf92",
+  "active": "611cdfcfce5e4675",
   "lastOpenFiles": [
-    "Backlog/November Aufteilung.md",
+    "Wardrobe/PJ aus Mimion Bettlaken.md",
+    "Handarbeit UFO Liste.md",
     "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
+    "Backlog/Ideen Box.md",
+    "Tagebuch/September/2025-09-03.md",
+    "HierGehtsLos/Sicherung Milanote/ufos-250905_0613.md",
+    "Tagebuch/September/2025-09-05.md",
+    "Wardrobe/Herbst Klamotten.md",
+    "Tagebuch/September/2025-09-09.md",
+    "Tagebuch/September/2025-09-11.md",
+    "HierGehtsLos/Sicherung Milanote/alles-fr-arbeit-250827_0610.md",
     "Tagebuch/2025-11-15.md",
+    "Backlog/November Aufteilung.md",
     "Tagebuch/2025-11-02.md",
     "Tagebuch/September/2025-09-08.md",
     "Backlog/Obsidian Tips und Tricks.md",
     "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
-    "Backlog/Ideen Box.md",
     "Backlog/Wie geht es weiter.md",
     "Praktikum.md",
     "Juliane_Bonenkamp_DSC_6295s-02.jpg",
@@ -236,15 +233,6 @@
     "Backlog Material",
     "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "HierGehtsLos/Sicherung Milanote/Import von Milanote.md",
-    "Tagebuch/September/2025-09-28.md",
-    "Tagebuch/September/2025-09-25.md",
-    "Tagebuch/September/2025-09-21.md",
-    "Tagebuch/September/2025-09-20.md",
-    "Tagebuch/September/2025-09-19.md",
-    "Tagebuch/September/2025-09-17.md",
-    "Tagebuch/September/2025-09-16.md",
-    "Tagebuch/September/2025-09-15.md",
-    "Tagebuch/September/2025-09-14.md",
     "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
     "Wardrobe/lu132489fo58.tmp",
     "Tagebuch/September",
