@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "November Aufteilung"
             }
+          },
+          {
+            "id": "315c923d8244cf92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagebuch/2025-11-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-15"
+            }
+          },
+          {
+            "id": "59e242585428ad83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -54,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adve",
+                "query": "emsche",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +114,8 @@
               "title": "ufos-250905_0613"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-09-02.md",
+                "file": "Tagebuch/2025-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 2025-09-02"
+              "title": "Rückverweise für 2025-11-15"
             }
           },
           {
@@ -166,12 +192,12 @@
               "title": "Gliederung von 2025-09-02"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +210,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "d30e24721a987725",
+  "active": "315c923d8244cf92",
   "lastOpenFiles": [
+    "Backlog/November Aufteilung.md",
+    "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
+    "Tagebuch/2025-11-15.md",
+    "Tagebuch/2025-11-02.md",
+    "Tagebuch/September/2025-09-08.md",
+    "Backlog/Obsidian Tips und Tricks.md",
     "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
     "Backlog/Ideen Box.md",
     "Backlog/Wie geht es weiter.md",
     "Praktikum.md",
-    "Obsidian Tips und Tricks.md",
     "Juliane_Bonenkamp_DSC_6295s-02.jpg",
     "Backlog/Arbeitsplatz.md",
     "Backlog/Deko Ideen Adventskalender.md",
-    "Backlog/November Aufteilung.md",
     "Backlog",
     "Backlog/Das Sekretariat wird gegründet.md",
     "Wardrobe/Vorgehensweise.md",
@@ -202,10 +232,8 @@
     "Wardrobe/Verbindung von Kleiderschrank und Anleinleitung.canvas",
     "Backlog/Mein Schreibtisch.canvas",
     "Wardrobe/Röcke und Hosen.md",
-    "Tagebuch/September/2025-09-08.md",
     "Backlog Material/Schreibtisch",
     "Backlog Material",
-    "Tagebuch/2025-11-02.md",
     "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "HierGehtsLos/Sicherung Milanote/Import von Milanote.md",
     "Tagebuch/September/2025-09-28.md",
@@ -217,7 +245,6 @@
     "Tagebuch/September/2025-09-16.md",
     "Tagebuch/September/2025-09-15.md",
     "Tagebuch/September/2025-09-14.md",
-    "Tagebuch/September/2025-09-13.md",
     "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
     "Wardrobe/lu132489fo58.tmp",
     "Tagebuch/September",

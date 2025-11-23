@@ -8,7 +8,7 @@
 - [ ] Tee-Schachteln mit Stoff beziehen
 - [ ] Schuhbeutel
     - [x] aus Sevietten
-- [ ] Wäschekorb aus DC Häckeln
+- [ ] Wäschekorb aus CD Häckeln
 - [ ] Wäschekörbe aus Stoffstreifen Schnurr
 - [ ] Wäschekörbe aus Stoff geflochen
 - [ ] Köfferchen für CJ und KAKEBO

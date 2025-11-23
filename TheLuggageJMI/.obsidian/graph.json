@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "September",
@@ -15,23 +15,23 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#decluttern  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.473958333333333,
-  "repelStrength": 10.5208333333333,
-  "linkStrength": 0.885416666666667,
-  "linkDistance": 297,
-  "scale": 0.3628873693012126,
-  "close": false
+  "centerStrength": 0.15625,
+  "repelStrength": 7.39583333333333,
+  "linkStrength": 0.6875,
+  "linkDistance": 500,
+  "scale": 0.18462326225858186,
+  "close": true
 }

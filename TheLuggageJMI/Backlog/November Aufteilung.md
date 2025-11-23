@@ -4,12 +4,12 @@
 	- Klein anfangen
 		- Moosverzieren mit Playmo
 		- Lichterketten aufhängen
-	- Dinge anfangen wenn ich sie plane
+	- Dinge anfangen, wenn ich sie plane
 		- Martins Dekoration kann ein 1/2 Jahr liegen
 	- Meinen Workflow von der Arbeit nutzen
 		- Aufgabe Analysieren
-		- Materialsammeln
-		- "Tabellen und Spalten anzeigen"
+		- Material sammeln
+			- erste Teil aufgabe
 # Kreativ
 - Rose und Puppy um Haltung zu zeigen
 - Emschequalle
@@ -27,13 +27,17 @@
 	- Playmobil
 	- Türkranz
 # Declutter
+#decluttern 
 ## Routine entwickeln
+#Routinen 
 - [ ] Bügeln
 ## Studio
+#Studio #decluttern 
 - [ ] Herbst Lichter Ketten ans Fenster
 - [ ] Wohnlich
 - [ ] Journale Ablegen
-# Schreibtisch
+## Schreibtisch
+#Studio #Schreibtisch #decluttern 
 - [ ] Laptop Winwows verlängern.
 	- Lizenslink von CC in Mail
 - [ ] Monitor
