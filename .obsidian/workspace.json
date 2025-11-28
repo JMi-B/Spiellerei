@@ -21,22 +21,6 @@
             }
           },
           {
-            "id": "acdb5b4972349a1b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "JMi Datenbank Projekt toDo's"
-            }
-          },
-          {
             "id": "08993030fe2c3cea",
             "type": "leaf",
             "pinned": true,
@@ -68,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025-11-27.md",
+                "file": "JMi-lernt/Workdiary/2025-11-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,16 +67,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-27"
+              "title": "2025-11-20"
             }
           },
           {
-            "id": "419ab40ab5b0d3f9",
+            "id": "febfc96f396e3c88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025-11-25.md",
+                "file": "JMi-lernt/Workdiary/2025-11-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,16 +91,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-25"
+              "title": "2025-11-26"
             }
           },
           {
-            "id": "f17b3783cfceccee",
+            "id": "c3afbd55e3b84fb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025-11-24.md",
+                "file": "JMi-lernt/Workdiary/2025-11-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,35 +115,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-24"
-            }
-          },
-          {
-            "id": "a963f71b93664376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JMi-lernt/Workdiary/2025-11-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-25"
+              "title": "2025-11-28"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ddc58d876b263da5",
@@ -172,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025-11-27.md",
+                "file": "JMi-lernt/Workdiary/2025-11-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-27"
+              "title": "Outline of 2025-11-28"
             }
           }
         ]
@@ -213,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#for",
+                "query": "#funktion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,8 +194,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -345,20 +304,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7da122ab8cadb826",
+  "active": "c3afbd55e3b84fb0",
   "lastOpenFiles": [
-    "BuchstabenZahlen.py.md",
-    "JMi-lernt/Workdiary/2025-11-27.md",
-    "AlgorithmusHashtag.py",
-    "JMi-lernt/Workdiary/2025-11-25.md",
-    "JMi-lernt/Workdiary/Index für Workdiary.md",
-    "JMi-lernt/Workdiary/2025-11-24.md",
-    "BuchstabenZahlen.py",
     "JMi-lernt/Workdiary/2025-11-26.md",
+    "JMi-lernt/Workdiary/2025-11-28.md",
+    "AustauschUmlautenLösung.py",
+    "JMi-lernt/Workdiary/Index für Workdiary.md",
+    "JMi-lernt/Workdiary/Datein für Diary",
+    "JMi-lernt/Workdiary/2025-11-20.md",
+    "JMi-lernt/Workdiary/Oktober/2025-10-27.md",
+    "JMi-lernt/Workdiary/Oktober/2025-10-15.md",
+    "JMi-lernt/Workdiary/Oktober/2025-10-09.md",
+    "JMi-lernt/Programieren/Python.md",
+    "JMi-lernt/Workdiary/2025-11-27.md",
+    "JMi-lernt/Workdiary/2025-11-25.md",
+    "JMi-lernt/Workdiary/2025-11-24.md",
+    "JMi-lernt/Workdiary/Datein für Diary/BuchstabenZahlen.py.md",
+    "AlgorithmusHashtag.py",
+    "BuchstabenZahlen.py",
     "AlgorithmusPW.py",
     "AlgorithmusSequenzDNA.py",
     "JMi-lernt/Workdiary/2025-11-19.md",
-    "JMi-lernt/Workdiary/2025-11-20.md",
     "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
     "JMi-lernt/Prüfung und Projekt/Timeline Prüfung.md",
     "JMi-lernt/Prüfung und Projekt",
@@ -374,18 +340,10 @@
     "JMi-lernt/Workdiary/2025-11-21.md",
     "JMi-lernt/Workdiary/2025-11-18.md",
     "JMi-lernt/Workdiary/2025-11-11.md",
-    "JMi-lernt/Programieren/Python.md",
-    "JMi-lernt/Programieren/Schleifen.md",
-    "JMi-lernt/Programieren/ELT.md",
-    "JMi-lernt/Material/Lern Recherche Aufgaben.md",
-    "JMi-lernt/Material/Statistik.md",
-    "JMi-lernt/Material/Metadaten.md",
     "JMi-lernt/Workdiary/Bilder für Diary/MeinWorkflow.drawio.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-13 135722.png",
     "JMi-lernt/Workdiary/Bilder für Diary",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-14 134721.png",
-    "JMi-lernt/Meine Datenbank/EntscheidungsbaumExistiertDS.drawio",
-    "gitignore 1",
     "JMi-lernt/swyxon/Pasted image 20251113142508.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-13 162947.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-13 143217.png",
