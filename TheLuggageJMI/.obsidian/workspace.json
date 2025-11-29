@@ -1,54 +1,41 @@
 {
   "main": {
-    "id": "ead31656c57c42eb",
+    "id": "3ef21c8a5e7a405c",
     "type": "split",
     "children": [
       {
-        "id": "27968fdab982d416",
+        "id": "5329826aec65440c",
         "type": "tabs",
         "children": [
           {
-            "id": "611cdfcfce5e4675",
+            "id": "52c6881d0cb64dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handarbeit UFO Liste.md",
+                "file": "Tagebuch/2025-11-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handarbeit UFO Liste"
-            }
-          },
-          {
-            "id": "4b95aa3852197a56",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "2025-11-29"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3d09258e0a0bfadf",
+    "id": "d029e292e2a01286",
     "type": "split",
     "children": [
       {
-        "id": "5093283256cca271",
+        "id": "0832eea1e68738aa",
         "type": "tabs",
         "children": [
           {
-            "id": "61aab97008a5124c",
+            "id": "246968c44ab85e5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,28 +48,24 @@
             }
           },
           {
-            "id": "feb1957121c4e557",
+            "id": "2563eaf7c181fc1b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "debek",
-=======
                 "query": "",
->>>>>>> 3489cb96e1c7b839a844eadf0439d841cad272dc
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Suchen"
             }
           },
           {
-            "id": "83162d3dd3517dfb",
+            "id": "f873439aa5697fdf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,43 +73,28 @@
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
             }
-          },
-          {
-            "id": "52a1b6b2b4c35137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HierGehtsLos/Sicherung Milanote/ufos-250905_0613.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ufos-250905_0613"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 300
   },
   "right": {
-    "id": "ca620e30feba9517",
+    "id": "ca88a86015a53491",
     "type": "split",
     "children": [
       {
-        "id": "b94b1356fe9d85c9",
+        "id": "2e0f55461684ed84",
         "type": "tabs",
         "children": [
           {
-            "id": "d30973316ae253a3",
+            "id": "532ca90d52b314de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/2025-11-15.md",
+                "file": "Tagebuch/2025-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 2025-11-15"
+              "title": "Rückverweise für 2025-11-29"
             }
           },
           {
-            "id": "38d7aa41ecd8e9d4",
+            "id": "dfef3e509baed258",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-09-02.md",
+                "file": "Tagebuch/2025-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2025-09-02 öffnen"
+              "title": "Ausgehende Links von 2025-11-29 öffnen"
             }
           },
           {
-            "id": "af574a88f115b0c2",
+            "id": "9ef5d04a2b5f412a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,22 +137,21 @@
             }
           },
           {
-            "id": "ee55f3737e70cdaf",
+            "id": "b03d3d730d134fb5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-09-02.md",
+                "file": "Tagebuch/2025-11-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-09-02"
+              "title": "Gliederung von 2025-11-29"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,73 +160,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Graph-Ansicht öffnen": false,
-      "bases:Create new base": false,
       "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Create new base": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-<<<<<<< HEAD
-  "active": "d30e24721a987725",
+  "active": "52c6881d0cb64dfe",
   "lastOpenFiles": [
-    "Backlog/Mein Schreibtisch.canvas",
-    "Backlog/November Aufteilung.md",
-=======
-  "active": "611cdfcfce5e4675",
-  "lastOpenFiles": [
-    "Wardrobe/PJ aus Mimion Bettlaken.md",
-    "Handarbeit UFO Liste.md",
->>>>>>> 3489cb96e1c7b839a844eadf0439d841cad272dc
-    "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
-    "Backlog/Ideen Box.md",
-    "Tagebuch/September/2025-09-03.md",
-    "HierGehtsLos/Sicherung Milanote/ufos-250905_0613.md",
-    "Tagebuch/September/2025-09-05.md",
-    "Wardrobe/Herbst Klamotten.md",
-    "Tagebuch/September/2025-09-09.md",
-    "Tagebuch/September/2025-09-11.md",
-    "HierGehtsLos/Sicherung Milanote/alles-fr-arbeit-250827_0610.md",
-    "Tagebuch/2025-11-15.md",
-    "Backlog/November Aufteilung.md",
-    "Tagebuch/2025-11-02.md",
-    "Tagebuch/September/2025-09-08.md",
-    "Backlog/Obsidian Tips und Tricks.md",
-    "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
-    "Backlog/Wie geht es weiter.md",
-    "Praktikum.md",
-    "Juliane_Bonenkamp_DSC_6295s-02.jpg",
-    "Backlog/Arbeitsplatz.md",
-    "Backlog/Deko Ideen Adventskalender.md",
-    "Backlog",
-    "Backlog/Das Sekretariat wird gegründet.md",
-    "Wardrobe/Vorgehensweise.md",
-    "HierGehtsLos/Wie geht es weiter.md",
-    "Wardrobe/Verbindung von Kleiderschrank und Anleinleitung.canvas",
-    "Wardrobe/Röcke und Hosen.md",
-    "Backlog Material/Schreibtisch",
-    "Backlog Material",
-    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
-    "HierGehtsLos/Sicherung Milanote/Import von Milanote.md",
-<<<<<<< HEAD
-    "Tagebuch/September/2025-09-28.md",
-    "Tagebuch/September/2025-09-25.md",
-    "Tagebuch/September/2025-09-21.md",
-    "Tagebuch/September/2025-09-20.md",
-    "Tagebuch/September/2025-09-19.md",
-    "Tagebuch/September/2025-09-17.md",
-    "Tagebuch/September/2025-09-16.md",
-    "Tagebuch/September/2025-09-15.md",
-=======
->>>>>>> 3489cb96e1c7b839a844eadf0439d841cad272dc
-    "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
-    "Wardrobe/lu132489fo58.tmp",
-    "Tagebuch/September",
-    "HierGehtsLos/Sicherung Milanote/Ich werde Beastologin.canvas",
-    "Tagebuch",
-    "Weiterbildungsprämie & Weiterbildungsgeld – Fragen und Antworten _ Bundesagentur für Arbeit.htm",
-    "zeiten-250718_0621.odt"
+    "Tagebuch/2025-11-30.md",
+    "Tagebuch/2025-11-29.md",
+    "daily note",
+    "2025-11-29.md",
+    "2025-11-30.md"
   ]
 }
