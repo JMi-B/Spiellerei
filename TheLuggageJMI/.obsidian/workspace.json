@@ -46,7 +46,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emsche",
+                "query": "debek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +209,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "315c923d8244cf92",
+  "active": "d30e24721a987725",
   "lastOpenFiles": [
+    "Backlog/Mein Schreibtisch.canvas",
     "Backlog/November Aufteilung.md",
     "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
     "Tagebuch/2025-11-15.md",
@@ -230,7 +230,6 @@
     "Wardrobe/Vorgehensweise.md",
     "HierGehtsLos/Wie geht es weiter.md",
     "Wardrobe/Verbindung von Kleiderschrank und Anleinleitung.canvas",
-    "Backlog/Mein Schreibtisch.canvas",
     "Wardrobe/Röcke und Hosen.md",
     "Backlog Material/Schreibtisch",
     "Backlog Material",
@@ -244,7 +243,6 @@
     "Tagebuch/September/2025-09-17.md",
     "Tagebuch/September/2025-09-16.md",
     "Tagebuch/September/2025-09-15.md",
-    "Tagebuch/September/2025-09-14.md",
     "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
     "Wardrobe/lu132489fo58.tmp",
     "Tagebuch/September",
