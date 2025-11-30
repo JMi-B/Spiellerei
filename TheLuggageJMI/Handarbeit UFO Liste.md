@@ -28,4 +28,7 @@ Hier werden neue Einträge mit alten verlinkt.
 - #Sashiko
 - #Korak
 # andere UFOs
-
+## Steanpunk
+### Walküre
+- [[2026-01-16 ZSZZ -Gut Behütet]] #walküre
+- 

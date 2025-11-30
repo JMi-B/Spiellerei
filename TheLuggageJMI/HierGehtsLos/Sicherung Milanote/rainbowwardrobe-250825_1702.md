@@ -56,7 +56,7 @@ Bezugsmarken Idee von Reatro Cloude
 
 - Alle SChnitte von Ottebre ausprobieren
 
-    - Fleigermütze für Walküre
+    - Fleigermütze für Walküre #walküre 
 
 ## Gardrobe
 - [ ] Selbst genähte Röcke

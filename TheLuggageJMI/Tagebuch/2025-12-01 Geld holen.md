@@ -1,0 +1,7 @@
+---
+title: Geld holen
+allDay: true
+date: 2025-12-01
+endDate: 2025-12-02
+completed: false
+---

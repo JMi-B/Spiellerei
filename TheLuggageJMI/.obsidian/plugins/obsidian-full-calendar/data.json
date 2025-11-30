@@ -1,5 +1,11 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#f08080",
+      "directory": "Tagebuch"
+    }
+  ],
   "defaultCalendar": 0,
   "firstDay": 1,
   "initialView": {
