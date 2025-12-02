@@ -34,12 +34,14 @@ aus thisdict = dict()
 
 ## Listen und Dictionary
 #### List
+#list
 - Eine Liste wird in eckigen Klammern geschrieben [] 
 - Die Einträge sind durch Kommata getrennte
 - Strings stehen in ""
 #### Dict
+#dict
 - Ein Dictionaty steht in {} geschweiften Klammern
-- Ein Dictionary besteht aus SChlüsel-Wert-Paaren (Key:Value)
+- Ein Dictionary besteht aus Schlüsel-Wert-Paaren (Key:Value)
 - Die Schlüssel und Wert (Key:Value) wird ein Doppelpunkt gesetzt
 - Die Paar werden durch Kommata getrennt
 - Strings stehen in ""
