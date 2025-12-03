@@ -6,7 +6,7 @@
       {
         "id": "cc050d22ab6cbca9",
         "type": "tabs",
-        "dimension": 77.99227799227799,
+        "dimension": 78.06563039723662,
         "children": [
           {
             "id": "68f145c31ff25de5",
@@ -71,12 +71,12 @@
             }
           },
           {
-            "id": "df1193c5f262017d",
+            "id": "169c07c3595e9068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
+                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,7 +91,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-01"
+              "title": "2025-12-03"
             }
           }
         ],
@@ -100,7 +100,7 @@
       {
         "id": "ddc58d876b263da5",
         "type": "tabs",
-        "dimension": 22.00772200772201,
+        "dimension": 21.934369602763386,
         "children": [
           {
             "id": "97a8b18a4160b3b6",
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
+                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-01"
+              "title": "Outline of 2025-12-03"
             }
           }
         ]
@@ -282,10 +282,13 @@
   },
   "active": "046d5824b91f23c1",
   "lastOpenFiles": [
-    "JMi-lernt/Workdiary/Index für Workdiary.md",
-    "JMi-lernt/Workdiary/2025Dezember",
+    "JMi-lernt/Workdiary/Datein für Diary/Azure Workshop.pdf",
     "JMi-lernt/Workdiary/2025Dezember/2025-12-02.md",
     "JMi-lernt/Workdiary/2025Dezember/2025-12-03.md",
+    "JMi-lernt/Workdiary/Index für Workdiary.md",
+    "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
+    "tmp_commit_count.txt",
+    "JMi-lernt/Workdiary/2025Dezember",
     "JMi-lernt/Workdiary/Datein für Diary/Arbeitspakete aka PBI.md",
     "JMi-lernt/Material/Lern Recherche Aufgaben.md",
     "JMi-lernt/Aufgaben und Projekte/Wordcloud.md",
@@ -293,7 +296,6 @@
     "JMi-lernt/Workdiary/Oktober/2025-10-13.md",
     "JMi-lernt/Programieren/EXIF.md",
     "JMi-lernt/Workdiary/Oktober/2025-10-10.md",
-    "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
     "JMi-lernt/Workdiary/November/2025-11-25.md",
     "JMi-lernt/Workdiary/November/2025-11-26.md",
     "JMi-lernt/Workdiary/November/2025-11-28.md",
@@ -316,7 +318,6 @@
     "JMi-lernt/Workdiary/November/2025-11-19.md",
     "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
     "JMi-lernt/Prüfung und Projekt",
-    "JMi-lernt/Meine Datenbank/localhost _ 127.0.0.1 _ anleitungdb04 _ pdftexte _ phpMyAdmin 5.2.1.pdf",
     "JMi-lernt/Workdiary/Bilder für Diary/MeinWorkflow.drawio.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-13 135722.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-14 134721.png",
