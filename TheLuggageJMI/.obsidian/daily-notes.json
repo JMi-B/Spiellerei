@@ -1,4 +1,5 @@
 {
   "folder": "Tagebuch",
-  "template": "templates"
+  "template": "templates/Daily Note",
+  "autorun": true
 }

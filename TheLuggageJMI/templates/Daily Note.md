@@ -1,6 +1,6 @@
-{{date}}
+{{yesterday}}<- {{date}} -> {{tomorow}} 
 
-# {{title}}
+# {{dddd}}
 ## Vorhaben
 ## Aufgabe
 ## Notizen
