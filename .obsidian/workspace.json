@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025-12-02.md",
+                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,9 +69,33 @@
               "icon": "lucide-file",
               "title": "2025-12-02"
             }
+          },
+          {
+            "id": "df1193c5f262017d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-01"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ddc58d876b263da5",
@@ -84,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JMi-lernt/Workdiary/2025-12-02.md",
+                "file": "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-02"
+              "title": "Outline of 2025-12-01"
             }
           }
         ]
@@ -146,8 +170,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,18 +280,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d08c302934620f4",
+  "active": "046d5824b91f23c1",
   "lastOpenFiles": [
     "JMi-lernt/Workdiary/Index für Workdiary.md",
+    "JMi-lernt/Workdiary/2025Dezember",
+    "JMi-lernt/Workdiary/2025Dezember/2025-12-02.md",
+    "JMi-lernt/Workdiary/2025Dezember/2025-12-03.md",
     "JMi-lernt/Workdiary/Datein für Diary/Arbeitspakete aka PBI.md",
     "JMi-lernt/Material/Lern Recherche Aufgaben.md",
     "JMi-lernt/Aufgaben und Projekte/Wordcloud.md",
     "JMi-lernt/Programieren/Python.md",
-    "JMi-lernt/Workdiary/2025-12-02.md",
     "JMi-lernt/Workdiary/Oktober/2025-10-13.md",
     "JMi-lernt/Programieren/EXIF.md",
     "JMi-lernt/Workdiary/Oktober/2025-10-10.md",
-    "JMi-lernt/Workdiary/2025-12-01.md",
+    "JMi-lernt/Workdiary/2025Dezember/2025-12-01.md",
     "JMi-lernt/Workdiary/November/2025-11-25.md",
     "JMi-lernt/Workdiary/November/2025-11-26.md",
     "JMi-lernt/Workdiary/November/2025-11-28.md",
@@ -290,11 +315,8 @@
     "AlgorithmusSequenzDNA.py",
     "JMi-lernt/Workdiary/November/2025-11-19.md",
     "JMi-lernt/Meine Datenbank/JMi Datenbank Projekt toDo's.md",
-    "JMi-lernt/Prüfung und Projekt/Timeline Prüfung.md",
     "JMi-lernt/Prüfung und Projekt",
     "JMi-lernt/Meine Datenbank/localhost _ 127.0.0.1 _ anleitungdb04 _ pdftexte _ phpMyAdmin 5.2.1.pdf",
-    "JMi-lernt/Material/Vokabeln.md",
-    "JMi-lernt/Workdiary/Bilder für Diary/struktogramm-25-11-2025.pdf",
     "JMi-lernt/Workdiary/Bilder für Diary/MeinWorkflow.drawio.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-13 135722.png",
     "JMi-lernt/Workdiary/Bilder für Diary/Screenshot 2025-11-14 134721.png",
