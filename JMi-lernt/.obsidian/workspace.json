@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bde9137f5e28f37f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Berichtsheft/Index fürs Berichtsheft.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Index fürs Berichtsheft"
-            }
-          },
-          {
             "id": "1def5ee22141290e",
             "type": "leaf",
             "pinned": true,
@@ -37,63 +20,65 @@
             }
           },
           {
-            "id": "8d62834c1d6d8587",
+            "id": "ada22f32bf787465",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programieren/Mysql repair.md",
+                "file": "Workdiary/Index für Workdiary.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Mysql repair"
+              "title": "Index für Workdiary"
             }
           },
           {
-            "id": "10059f0d082bc642",
+            "id": "fc5b463f5ff7ac4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berichtsheft/2025-10-20.md",
+                "file": "Material/Tools und Ressourcen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-20"
+              "title": "Tools und Ressourcen"
             }
           },
           {
-            "id": "8576f2a73ae3c4d8",
+            "id": "615d3fa80aaccc7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi Datenbank Projekt toDo's.md",
+                "file": "Workdiary/2025Dezember/2025-12-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JMi Datenbank Projekt toDo's"
+              "title": "2025-12-02"
             }
           },
           {
-            "id": "2db3a7ce44e180f0",
+            "id": "7a512eb46116d0ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workdiary/2025Dezember/2025-12-05.md",
+                "file": "Workdiary/2025Dezember/2025-12-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-05"
+              "title": "2025-12-08"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dbmodel",
+                "query": "tag:#ifelse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start.md",
+                "file": "Workdiary/2025Dezember/2025-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Start"
+              "title": "Outgoing links from 2025-12-08"
             }
           },
           {
@@ -195,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
+                "file": "Workdiary/2025Dezember/2025-12-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of 2025-12-08"
             }
           },
           {
@@ -223,12 +209,12 @@
               "title": "Backlinks for 2025-10-06"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,23 +223,29 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2db3a7ce44e180f0",
+  "active": "7a512eb46116d0ed",
   "lastOpenFiles": [
-    "Workdiary/2025Dezember/2025-12-04.md",
-    "Workdiary/2025Dezember/2025-12-03.md",
+    "Workdiary/November/2025-11-19.md",
+    "Workdiary/2025Dezember/2025-12-08.md",
+    "Workdiary/Index für Workdiary.md",
     "Workdiary/2025Dezember/2025-12-02.md",
     "Workdiary/2025Dezember/2025-12-01.md",
+    "Workdiary/November/2025-11-28.md",
+    "Workdiary/Datein für Diary/Arbeitspakete aka PBI.md",
     "Workdiary/2025Dezember/2025-12-05.md",
+    "Material/Tools und Ressourcen.md",
+    "Material/Lern Recherche Aufgaben.md",
+    "Programieren/Mysql repair.md",
+    "Workdiary/2025Dezember/2025-12-04.md",
+    "Workdiary/2025Dezember/2025-12-03.md",
     "Programieren/Python.md",
     "Berichtsheft/2025-10-24.md",
     "JMi Datenbank Projekt toDo's.md",
     "Programieren/SQL Tipps und Tricks.md",
     "Berichtsheft/Index fürs Berichtsheft.md",
-    "Programieren/Mysql repair.md",
     "Berichtsheft/2025-10-23.md",
     "Berichtsheft/2025-10-16.md",
     "Berichtsheft/2025-10-21.md",
@@ -262,16 +254,9 @@
     "Berichtsheft/2025-10-14.md",
     "Berichtsheft/2025-10-15.md",
     "Berichtsheft/2025-10-13.md",
-    "Berichtsheft/2025-10-10.md",
     "swyxon/Pasted image 20251016160023.png",
-    "Aufgaben und Projekte/OpenCV.md",
     "swyxon",
-    "Meine Vorstellungen/Ressourcen für DAPA.md",
-    "Meine Vorstellungen/Buchempfehlung.md",
-    "Material/Lern Recherche Aufgaben.md",
-    "Meine Vorstellungen/Fragen zu Klausuren.md",
     "Meine Vorstellungen",
-    "Erste Seite.md",
     "Programieren",
     "Aufgaben und Projekte",
     "Material",
