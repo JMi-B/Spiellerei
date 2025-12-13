@@ -1,8 +1,11 @@
 # Weihnachten
+#weihnachten #advent
 ### Budget und Beschaffung
+#budget
 - Spekulatius gibt es im September
 - Kerzen, Papier, etc. ab September kaufen
 - Nüsse und Backzutaten gezielt holen
+	- Hier schlägt die Inflation zu  #Jahr2025
 - Kompromiss Lebkuchen und Spekulatius für die Seson sind Totensonntag angeschafft.
 	- 23-11-2025
 
@@ -18,23 +21,25 @@ Starte ab Toten Sonntag 2025-11-23
     - [ ] Für eine Einladung Barbara, Nikolaus, Lucia
 - [ ] Klassische Plätzchen
     - [ ] Nicht alleine Backen
-- [ ] Frankfurterbetmännchen
-- [ ] Engelsaugen
-- [ ] Schokoladenbusserl
-- [ ] Zimmtsterne
-- [ ] Vaniliekipfal
+	- [ ] Frankfurterbetmännchen
+	- [ ] Engelsaugen
+	- [ ] Schokoladenbusserl
+	- [ ] Zimmtsterne
+	- [ ] Vaniliekipfal
 - [ ] Mandel
 - [ ] Haselnüsse
 - [ ] Orangenbällchen
     - [ ] trockener halten
     - [ ] kein Palmin verwenden
 
-## GEschenke
+## Geschenke
+#geschenke #verschenke
 - [x] Bonix
     - [x] Emotional Suportchiken
 - [ ] Milo
     - [x] Grafig Novel Bowie
     - [ ] Frosch Würfel Tasche
+    - [ ] AEtherwelt Rollenspiel
 - [ ] für Freunde
     - [x] Steff
     - [ ] Fea
@@ -56,14 +61,15 @@ Starte ab Toten Sonntag 2025-11-23
         2.     Am 3. Advent noch nicht wissen was heilig Abend wird
 4. Heimelig machen
 - [ ] SChwippbogen
-    - [ ] Leucht Stern
+	- [ ] Motive Bergmann, Weberin, Spinnerin, Klöppelkissen
+- [ ] Leucht Stern
 - [x] WEihnachtsbaum
-    - [x] klein und hässlich
+    - [ ] klein und hässlich
 - [ ] Plätzchen
 - [x] Lebkuchen
 - [x] Mandeln
-- [ ] Advenskalender
-	- [ ] plamo Tier
+- [x] Advenskalender
+	- [ ] playmo Tier
 	- [ ] Fenster
 - [ ] Deko
     - [ ] Türkranz

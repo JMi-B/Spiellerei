@@ -6,55 +6,131 @@
       {
         "id": "ab2f2c6339b671a3",
         "type": "tabs",
-        "dimension": 87.30964467005076,
         "children": [
           {
-            "id": "f0897be29c79c9b7",
+            "id": "32bcde2ab8ebe378",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "big-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
+            }
+          },
+          {
+            "id": "7a1db5f22a00e3f2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          },
+          {
+            "id": "a1229212f81429da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagebuch/12_Dezember/2025-12-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-12-07"
+            }
+          },
+          {
+            "id": "5409e26122e7ca3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-12-03.md",
+                "file": "Tagebuch/12_Dezember/2025-12-08.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-12-03"
+              "title": "2025-12-08"
             }
           },
           {
-            "id": "630750ff41a94673",
+            "id": "6f095f866e3e2df9",
             "type": "leaf",
             "state": {
-              "type": "big-calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Big Calendar"
-            }
-          }
-        ]
-      },
-      {
-        "id": "72ef0be869bca418",
-        "type": "tabs",
-        "dimension": 12.690355329949236,
-        "children": [
-          {
-            "id": "6fd1d43f71798fb5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-12-03.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Tagebuch/12_Dezember/2025-12-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-list",
-              "title": "Gliederung von 2025-12-03"
+              "icon": "lucide-file",
+              "title": "2025-12-10"
+            }
+          },
+          {
+            "id": "096057db85e8dffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagebuch/2025-12-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-12"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wall",
+                "query": "KAKE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/2025-11-29.md",
+                "file": "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 2025-11-29"
+              "title": "Rückverweise für safe-space-250830_0948"
             }
           },
           {
@@ -146,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/2025-11-29.md",
+                "file": "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2025-11-29 öffnen"
+              "title": "Ausgehende Links von safe-space-250830_0948 öffnen"
             }
           },
           {
@@ -175,21 +251,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/2025-11-29.md",
+                "file": "Tagebuch/2025-12-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-11-29"
+              "title": "Gliederung von 2025-12-12"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,39 +275,39 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Create new base": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "f0897be29c79c9b7",
+  "active": "096057db85e8dffd",
   "lastOpenFiles": [
+    "Tagebuch/2025-12-12.md",
     "templates/Daily Note.md",
-    "Tagebuch/2025-12-03.md",
-    "Tagebuch/2025-12-11.md",
-    "Tagebuch/2025-12-10.md",
-    "Tagebuch/2025-12-01 Mandeln.md",
-    "Tagebuch/2025-12-01 Geld holen.md",
-    "Tagebuch/2025-12-06 Status Fleigerhaube.md",
-    "Tagebuch/2025-12-03 R&D Frühstück.md",
-    "Tagebuch/2025-12-06 Nikolaus.md",
+    "Tagebuch/12_Dezember/2025-12-10.md",
+    "Tagebuch/12_Dezember/2025-12-09.md",
+    "Tagebuch/12_Dezember/2025-12-10 1.md",
+    "Tagebuch/12_Dezember/2025-12-08.md",
+    "Tagebuch/12_Dezember/2025-12-07.md",
+    "Tagebuch/12_Dezember/2025-12-08 1.md",
+    "KAKEBO.md",
+    "Tagebuch/2026-01-05.md",
+    "Tagebuch/12_Dezember/2025-12-06 Status Fleigerhaube.md",
+    "Tagebuch/12_Dezember/2025-12-07 2. Advent.md",
+    "Tagebuch/11_November/2025-11-30.md",
+    "Tagebuch/11_November/2025-11-29 1.md",
+    "Tagebuch/12_Dezember/2025-12-01 Geld holen.md",
+    "Tagebuch/11_November/2025-11-02.md",
+    "Tagebuch/12_Dezember",
+    "Tagebuch/11_November",
     "Tagebuch/2026-01-16 ZSZZ -Gut Behütet.md",
-    "HierGehtsLos/Sicherung Milanote/wohn-und-schlaf-stube-250829_0634.md",
-    "HierGehtsLos/Sicherung Milanote/prsentations-ideen-250901_0632.md",
-    "HierGehtsLos/Sicherung Milanote/rainbowwardrobe-250825_1702.md",
-    "HierGehtsLos/Sicherung Milanote/steampunk-250901_0632.md",
-    "Handarbeit UFO Liste.md",
-    "Tagebuch/2026-01-01 Neujahr.md",
-    "Tagebuch/2025-12-31 Silvester.md",
-    "Tagebuch/2025-12-26 Weichnachten.md",
-    "Tagebuch/2025-12-25 Weihnachten.md",
-    "Tagebuch/2025-12-24 Heiligabend.md",
-    "Tagebuch/2025-12-21 4. Advent.md",
-    "Tagebuch/2025-12-13 Jakob geb..md",
-    "Tagebuch/2025-12-14 3. Advent.md",
-    "Tagebuch/2025-12-07 2. Advent.md",
-    "Tagebuch/2025-11-30 1. Advent.md",
-    "Tagebuch/2025-11-30.md",
+    "Tagebuch/11_November/2025-11-15.md",
+    "Backlog/Arbeitsplatz.md",
+    "HierGehtsLos/Sicherung Milanote/beziehungszeug-250827_0618.md",
+    "HierGehtsLos/Sicherung Milanote/daily-log-250902_0638.md",
+    "Backlog/November Aufteilung.md",
+    "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
+    "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
+    "202511301059.md",
+    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "templates",
     "daily note"
   ]
