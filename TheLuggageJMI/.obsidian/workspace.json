@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-12-12.md",
+                "file": "Tagebuch/2025-12-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,7 +126,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "2025-12-14"
             }
           }
         ],
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/2025-12-12.md",
+                "file": "Tagebuch/2025-12-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-12-12"
+              "title": "Gliederung von 2025-12-14"
             }
           }
         ],
@@ -281,6 +281,7 @@
   "active": "096057db85e8dffd",
   "lastOpenFiles": [
     "Tagebuch/2025-12-12.md",
+    "Tagebuch/2025-12-14.md",
     "templates/Daily Note.md",
     "Tagebuch/12_Dezember/2025-12-10.md",
     "Tagebuch/12_Dezember/2025-12-09.md",
@@ -307,7 +308,6 @@
     "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
     "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
     "202511301059.md",
-    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "templates",
     "daily note"
   ]
