@@ -32,38 +32,12 @@
             }
           },
           {
-            "id": "a1229212f81429da",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tagebuch/12_Dezember/2025-12-07.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-12-07"
-            }
-          },
-          {
-            "id": "5409e26122e7ca3f",
+            "id": "0c83018fc63b97ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/12_Dezember/2025-12-08.md",
+                "file": "KAKEBO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-08"
-            }
-          },
-          {
-            "id": "6f095f866e3e2df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tagebuch/12_Dezember/2025-12-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-10"
-            }
-          },
-          {
-            "id": "096057db85e8dffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tagebuch/2025-12-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "KAKEBO"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "KAKE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/2025-12-12.md",
+                "file": "KAKEBO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-12-12"
+              "title": "Gliederung von KAKEBO"
             }
           }
         ],
@@ -278,36 +204,36 @@
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "096057db85e8dffd",
+  "active": "0c83018fc63b97ec",
   "lastOpenFiles": [
-    "Tagebuch/2025-12-12.md",
+    "Tagebuch/12_Dezember/2025-12-14.md",
+    "Rücklagen.md",
+    "templates/{{title}}.md",
     "templates/Daily Note.md",
-    "Tagebuch/12_Dezember/2025-12-10.md",
-    "Tagebuch/12_Dezember/2025-12-09.md",
-    "Tagebuch/12_Dezember/2025-12-10 1.md",
+    "KAKEBO.md",
     "Tagebuch/12_Dezember/2025-12-08.md",
     "Tagebuch/12_Dezember/2025-12-07.md",
+    "Tagebuch/12_Dezember/2025-12-10.md",
+    "Tagebuch/2026-01-03.md",
+    "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
+    "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
+    "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
+    "Backlog/November Aufteilung.md",
+    "Tagebuch/12_Dezember/2025-12-13.md",
+    "Tagebuch/12_Dezember/2025-12-14 3. Advent.md",
+    "Tagebuch/12_Dezember/2025-12-13 Jakob geb..md",
+    "Tagebuch/12_Dezember/2025-12-12.md",
+    "Tagebuch/12_Dezember/2025-12-11.md",
+    "Tagebuch/12_Dezember/2025-12-09.md",
+    "Tagebuch/12_Dezember/2025-12-10 1.md",
     "Tagebuch/12_Dezember/2025-12-08 1.md",
-    "KAKEBO.md",
     "Tagebuch/2026-01-05.md",
     "Tagebuch/12_Dezember/2025-12-06 Status Fleigerhaube.md",
     "Tagebuch/12_Dezember/2025-12-07 2. Advent.md",
     "Tagebuch/11_November/2025-11-30.md",
     "Tagebuch/11_November/2025-11-29 1.md",
-    "Tagebuch/12_Dezember/2025-12-01 Geld holen.md",
-    "Tagebuch/11_November/2025-11-02.md",
     "Tagebuch/12_Dezember",
     "Tagebuch/11_November",
-    "Tagebuch/2026-01-16 ZSZZ -Gut Behütet.md",
-    "Tagebuch/11_November/2025-11-15.md",
-    "Backlog/Arbeitsplatz.md",
-    "HierGehtsLos/Sicherung Milanote/beziehungszeug-250827_0618.md",
-    "HierGehtsLos/Sicherung Milanote/daily-log-250902_0638.md",
-    "Backlog/November Aufteilung.md",
-    "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
-    "HierGehtsLos/Sicherung Milanote/sammelsurium-an-ideen-250913_1616.md",
-    "202511301059.md",
-    "HierGehtsLos/Sicherung Milanote/weihnachten-250902_0637.md",
     "templates",
     "daily note"
   ]
