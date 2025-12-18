@@ -25,7 +25,7 @@ Ende August 2025 alle Boards von Milanote exportiert. Hier verlinkt damit ich al
 23. [[rainbowwardrobe-250825_1702]]
 24. [[rug-250902_0635]]
 25. [[sammelsurium-an-ideen-250913_1616]]
-26. [[save-space-250830_0948]]
+26. [[safe-space-250830_0948]]
 27. [[schreiben-250827_0619]]
 28. [[schultte-250826_1249|schultte-250826_1249]]
 29. [[sekretariat-fr-zivilisation-und-beaster-250827_0622]]

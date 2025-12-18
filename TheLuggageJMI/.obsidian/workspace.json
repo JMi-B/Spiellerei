@@ -1,57 +1,34 @@
 {
   "main": {
-    "id": "3ef21c8a5e7a405c",
+    "id": "fce719d435536cbe",
     "type": "split",
     "children": [
       {
-        "id": "ab2f2c6339b671a3",
+        "id": "24d48c9b7983ef70",
         "type": "tabs",
-        "dimension": 87.30964467005076,
         "children": [
           {
-            "id": "a32d98ad42427ad7",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "c82c39efa1f806c5",
+            "id": "616c519c6a75cf79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-12-01 Mandeln.md",
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-12-01 Mandeln"
-            }
-          }
-        ]
-      },
-      {
-        "id": "72ef0be869bca418",
-        "type": "tabs",
-        "dimension": 12.690355329949238,
-        "children": [
-          {
-            "id": "6fd1d43f71798fb5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Tagebuch/2025-12-01 Mandeln.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Gliederung von 2025-12-01 Mandeln"
+              "title": "2025-12-14"
             }
           }
         ]
@@ -60,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d029e292e2a01286",
+    "id": "a533891e2169f623",
     "type": "split",
     "children": [
       {
-        "id": "0832eea1e68738aa",
+        "id": "c376ceabc1c11382",
         "type": "tabs",
         "children": [
           {
-            "id": "246968c44ab85e5e",
+            "id": "e8bf45a37bc05729",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,12 +58,12 @@
             }
           },
           {
-            "id": "2563eaf7c181fc1b",
+            "id": "8b9a81d4dd582293",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "wall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +75,7 @@
             }
           },
           {
-            "id": "f873439aa5697fdf",
+            "id": "8dafecd30a4897cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -114,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "ca88a86015a53491",
+    "id": "623a15abb02f34b0",
     "type": "split",
     "children": [
       {
-        "id": "2e0f55461684ed84",
+        "id": "271126114afd8efa",
         "type": "tabs",
         "children": [
           {
-            "id": "532ca90d52b314de",
+            "id": "0f76a7ff2413e040",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/2025-11-29.md",
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 2025-11-29"
+              "title": "Rückverweise für 2025-12-14"
             }
           },
           {
-            "id": "dfef3e509baed258",
+            "id": "516176bbeb25a902",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/2025-11-29.md",
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2025-11-29 öffnen"
+              "title": "Ausgehende Links von 2025-12-14 öffnen"
             }
           },
           {
-            "id": "9ef5d04a2b5f412a",
+            "id": "968783553cf25f8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,18 +147,18 @@
             }
           },
           {
-            "id": "b03d3d730d134fb5",
+            "id": "e4f98883cce000b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/2025-11-29.md",
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-11-29"
+              "title": "Gliederung von 2025-12-14"
             }
           }
         ]
@@ -199,40 +176,11 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Create new base": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "zk-prefixer:Neue eindeutige Notiz erstellen": false
+      "big-calendar:Big Calendar": false
     }
   },
-  "active": "a32d98ad42427ad7",
+  "active": "e8bf45a37bc05729",
   "lastOpenFiles": [
-    "Tagebuch/2025-12-01 Geld holen.md",
-    "Tagebuch/2025-12-01 Mandeln.md",
-    "Tagebuch/2025-12-06 Status Fleigerhaube.md",
-    "Tagebuch/2025-12-03 R&D Frühstück.md",
-    "Tagebuch/2025-12-06 Nikolaus.md",
-    "Tagebuch/2026-01-16 ZSZZ -Gut Behütet.md",
-    "templates/Daily Note.md",
-    "HierGehtsLos/Sicherung Milanote/wohn-und-schlaf-stube-250829_0634.md",
-    "HierGehtsLos/Sicherung Milanote/prsentations-ideen-250901_0632.md",
-    "HierGehtsLos/Sicherung Milanote/rainbowwardrobe-250825_1702.md",
-    "HierGehtsLos/Sicherung Milanote/steampunk-250901_0632.md",
-    "Handarbeit UFO Liste.md",
-    "Tagebuch/2026-01-01 Neujahr.md",
-    "Tagebuch/2025-12-31 Silvester.md",
-    "Tagebuch/2025-12-26 Weichnachten.md",
-    "Tagebuch/2025-12-25 Weihnachten.md",
-    "Tagebuch/2025-12-24 Heiligabend.md",
-    "Tagebuch/2025-12-21 4. Advent.md",
-    "Tagebuch/2025-12-13 Jakob geb..md",
-    "Tagebuch/2025-12-14 3. Advent.md",
-    "Tagebuch/2025-12-07 2. Advent.md",
-    "Tagebuch/2025-11-30 1. Advent.md",
-    "Tagebuch/2025-11-30.md",
-    "202511301059.md",
-    "Tagebuch/2025-11-29.md",
-    "templates",
-    "daily note",
-    "2025-11-29.md"
+    "Tagebuch/2025-12-14.md"
   ]
 }

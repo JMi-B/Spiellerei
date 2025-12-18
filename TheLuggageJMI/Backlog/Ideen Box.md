@@ -18,5 +18,5 @@ Odor nähen jersy
 ## Einrichtung
 
 [[wohn-und-schlaf-stube-250829_0634]]
-[[save-space-250830_0948]]
+[[safe-space-250830_0948]]
 [[bilder-250902_0637]]
