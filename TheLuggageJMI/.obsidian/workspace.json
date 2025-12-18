@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/12_Dezember/2025-12-14.md",
+                "file": "Tagebuch/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-14"
+              "title": "2025-12-18"
+            }
+          },
+          {
+            "id": "6f752fe4afb20dcc",
+            "type": "leaf",
+            "state": {
+              "type": "big-calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +65,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -170,17 +181,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "e8bf45a37bc05729",
+  "active": "6f752fe4afb20dcc",
   "lastOpenFiles": [
+    "Tagebuch/12_Dezember/2025-12-14.md",
+    "Tagebuch/2025-12-18.md",
     "Tagebuch/2025-12-14.md"
   ]
 }

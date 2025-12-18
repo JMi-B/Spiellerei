@@ -19,6 +19,7 @@ spielt keine Rolle - fließt in die Präsentation ein.
 ## Zeitmanagement
 [[2025-12-15]] -  [[Aufgabenstellung]]
 [[Einzelne Aufgabenblöcke]]
+[[Noch offen]]
 - [ ] Aufgabe verstehen und strukturieren
 	- [x] Recherche
 	- [ ] Datenbank erstellen

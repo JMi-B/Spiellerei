@@ -16,6 +16,12 @@ Die Probe Datenbank wird in SQl erstellt. Aus den vorgegebenen Daten werden anha
 		- wichtig für das füllen
 - wenn es mir die Zusammenhänge erklärt
 - als Optischer Anreiz für die Präsentation
+- [ ] Datenbank anlegen
+- [ ] Einzel Fragen Grundlagen
+	- [ ] Bestandsaufnahme
+	- [ ] Kosten pro Lizenz
+	- [ ] Nutzung je Lizenzvertrag
+- [ ] Einzel Fragen Vertiefung
 # Datenbank
 ## Tabellen
 - bibliothek
@@ -228,13 +234,13 @@ Die Probe Datenbank wird in SQl erstellt. Aus den vorgegebenen Daten werden anha
 [[Einzelne Aufgabenblöcke#Aufgaben zur Datenanalyse]]
 ### 1. Grundlegende Bestandsaufnahme
 Formuliere eine SQL-Abfrage, die alle Lizenzverträge mit Bibliotheksname, Lizenzmodell, Anzahl Lizenzen und Gesamtkosten ausgibt. Erweitere die Abfrage um eine sortierte Ausgabe nach höchsten Gesamtkosten zuerst, um teure Verträge schnell zu erkennen.
-- [ ] Gesamtkosten
-- [ ] Sortierung von teuer nach preiswert
+- [x] Gesamtkosten
+- [x] Sortierung von teuer nach preiswert
 - Was sind die teuersten Verträge?
-#### Vorgehen
+- [ ] geht auch ohne join [[2025-11-07#SQL Übungen]]
 2025-12-17
-##### Teil 1
-- [ ] Welche Tabellen?
+#### Teil 1
+- [x] Welche Tabellen?
 - lizenzvertrag
 - bibliothek
 - lizenzmodell
@@ -246,9 +252,9 @@ Formuliere eine SQL-Abfrage, die alle Lizenzverträge mit Bibliotheksname, Lizen
 	- Gesamtkosten
 - [x] wie lautet der Befehl um den Namen aus der Verbundenen Tabelle zu lesen
 -  join
-- [ ] Wie speichere ich den Query
+- [x] Wie speichere ich den Query
 	-  view
-##### Ergebnisse
+#### Ergebnisse
 `127.0.0.1/projektbibliotheklizenzen/lizenzvertrag/		http://localhost/phpmyadmin/index.php?route=/table/sql&db=projektbibliotheklizenzen&table=lizenzvertrag`
 
    `Zeige Datensätze 0 - 19 (20 insgesamt, Die Abfrage dauerte 0,0005 Sekunden.)`
@@ -282,19 +288,33 @@ Formuliere eine SQL-Abfrage, die alle Lizenzverträge mit Bibliotheksname, Lizen
 `OldLib GmbH	Altsystem-Lizenz	Archivbibliothek Stadtarchiv	5	5000.00`	
 `UniLib AG	Digitales Lesesaalmodul	Technische Bibliothek Industriepark	1	15000.00`	
 
-##### Teil 2
-- [ ] Sortierung nach Gesamtkosten
+#### Teil 2
+- [x] Sortierung nach Gesamtkosten
 -  order by
+- [x] LizenzID in die View einfügen
 ### 2. Kosten pro Lizenz
 Erstelle eine Abfrage, die für jeden Lizenzvertrag die Kosten pro einzelner Lizenz berechnet (kosten_gesamt / anzahl_lizenzen). Lasse dir die Verträge ausgeben, bei denen die Kosten pro Lizenz besonders hoch sind (z.B. > 1.000), und sortiere absteigend nach diesem Wert.
-- [ ] pro Vertrag einzelne Kosten pro Lizenz
-- [ ] von hoch nach niedrig sortiern
 - Vergleichbarkeit der Modelle
+##### Teil 1
+- [x] pro Vertrag einzelne Kosten pro Lizenz
+	- Aufbauend auf LizenzVertragKostenSortiert
+	- [x] Spalte mit Berechung einfügen
+	- Wie geht das?
+		- Mit `/` als Operator
+		- `Round(BERechnung,2)`Rundet auf zwei Nchkommerstellen
+##### Teil 2
+- [x] Auswahl von teuren Verträgen
+##### Teil 3
+- [x] von hoch nach niedrig sortiern
 ### 3. Nutzung je Lizenzvertrag
 Formuliere eine Abfrage, die für jeden Lizenzvertrag die Anzahl unterschiedlicher Nutzer in Lizenznutzung ermittelt. Erweitere die Abfrage um die Gesamtzahl der Nutzungsvorgänge und die Summe der Nutzung in Minuten pro Lizenzvertrag.
-- [ ] Anzahl der Nutzer
-- [ ] Gesamtzahl der Nutzungsvorgänge
-- [ ] Summe der Nutzung in Minuten pro Lizenzvertrag
+- [x] Anzahl der Nutzer
+	- [x] Anzahl der  Nutzer
+	- select from Lizenznutzung 
+		- Lizenzvertrag-id group by
+		- count(nutzer-Id) 
+- [x] Gesamtzahl der Nutzungsvorgänge
+- [x] Summe der Nutzung in Minuten pro Lizenzvertrag
 	- *was ist das?*
 - Wie werden die Lizenzen genutzt
 ### 4. Kosten pro aktivem Nutzer

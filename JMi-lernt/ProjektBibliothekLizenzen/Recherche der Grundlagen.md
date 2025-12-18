@@ -1,11 +1,11 @@
-# Grundlagen recherche
 [[Einzelne Aufgabenblöcke#Grundlagen recherche]]
+
 1. [[#Grundlagen und typische Prozesse|Grundlagen]] des Lizenzmanagements und typische Prozesse (Beschaffung, Inventarisierung, Nutzung, Rückgabe, Audit).
 2. Spezielle  [[#Anforderungen an Lizenzverwaltung in Bibliotheken]] (elektronische Resourcen, Campus- und Konsortiallizenzen)
 3. [[#Rechtliche Rahmenbedingungen]] (Urheberrecht, Nutzungsrechte, Open-Access-Modelle)
 4. [[#Kennzahlen]] und Nutzungsanalysen für Lizenzoptimierung (z.B. Kosten pro Nutzung, Auslastung, Low-Use-Titel)
 5. Rolle moderner [[#Bibliotheksmanagementsysteme (BMS/ILS)]]bei der Automatisierung von Lizenzverwaltungsprozessen.
-## Beschreibung
+# Beschreibung
 - Recherche der Grundlagen für Lizenzbedingungen und Prozesse für Bibliotheken.
 - Ist ein Teil der IST-Analyse. Bietet den einstieg in das Thema.
 - Die Grundlagen des Lizenzmanagements für Bibliotheken verstehen.
@@ -20,29 +20,29 @@
 - [ ] Wie wende ich das konkret für die Aufgabe an?
 - [ ] Prozesse verstehen und einordnen
 - [ ] Teil der Ist-Analyse
-## Akzeptanzkriterien
+# Akzeptanzkriterien
 - in der Präsentation 2- 3 Folien
 - Die Recherche ermöglicht es sinnvolle Einsparpotentiale zu erkennen
 - Versetzt mich in die Lage einem Fachfremden die Zusammenhänge zu erklären.
-## Umsetzung
-### Mein Einstieg
-#### Glomas
+# Umsetzung
+## Mein Einstieg
+### Glomas
 Entwickeln Informaitonsmanagment Tools
 %% schlecht gepflegte Website - Links in älternen Inhalten führen ins Nirvana - Relanch nicht ab geschlossen %%
 https://www.glomas.de/artikel/lizenzverwaltung-bibliotheken-unterschaetzt
-#### Artikel Zusammenfassung
-##### Thema Elektronische Medien in Bibliotheken
+### Artikel Zusammenfassung
+#### Thema Elektronische Medien in Bibliotheken
 - E-Books
 - Online-Zeitschriften
 - Datenbanken
 - Streaming-Dienste
 Rechtliche Absicherung
 Nachhaltiger Zugang
-##### Definition Lizenzverwaltung
+#### Definition Lizenzverwaltung
 #lizenzverwaltung
 > Lizenzverwaltung in Bibliotheken umfasst sämtliche Prozesse im Zusammenhang mit der Beschaffung, Dokumentation, Kontrolle, Pflege und Verlängerung von Nutzungsrechten für digitale Medien.
 
-##### Lizenzmodelle
+#### Lizenzmodelle
 - Einzellizenz - Ein Werk ein Nutzer
 - Campuslizenzen - alle Mitglieder einer Einrichtung
 - Konsotialllizenzen - Zusammenschluss von Einrichtungen
@@ -50,7 +50,7 @@ Nachhaltiger Zugang
 - Open-Access-Lizenzen - feste Bedingungen für die frei Nachnutzung und Verbreitung
 - Pay-per-View
 - Subskription oder Packetmodelle - Jahresabo für Sammlungen von Medien
-##### Risiken
+#### Risiken
 - Fristeinhaltung
 - Finanzelle Risiken:
 	- Doppelbuchungen
@@ -58,7 +58,7 @@ Nachhaltiger Zugang
 - Rechtliche Folgen von Verletzung von Nutzungsrechen
 - Tranzparenz für Förderung
 - Internationales Urheberrecht.
-##### Standards
+#### Standards
 #standard
 > - **COUNTER** (Counting Online Usage of NeTworked Electronic Resources): Standard für die Erfassung und Auswertung von Nutzungsstatistiken elektronischer Ressourcen.
 > - **KBART** (Knowledge Bases and Related Tools): Standard zur Bereitstellung von Metadaten zu elektronischen Ressourcen für konsistente Titel- und Paketinformationen.
@@ -66,29 +66,31 @@ Nachhaltiger Zugang
 > - **DINI-Zertifizierung**: Qualitätszeichen für Dokumenten- und Publikationsservices in Hochschulbibliotheken.
 > - **ISO-Normen**, wie ISO 10160/10161 für ILL (Fernleihe) und ISO 18626 für moderne Austauschformate.
 
-##### Nutzungsanalyse
+#### Nutzungsanalyse
 - Bedarfsgerechte Verwaltung
 - Software unter Einhaltung der DSGVO
 
-## Einzel Fragen
-### Grundlagen und typische Prozesse 
-#### Grundlagen des Lizenzmanagments
+# Einzel Fragen
+## Grundlagen und typische Prozesse 
+### Grundlagen des Lizenzmanagments
 #standard
-#### Prozesse
+### Prozesse
  (Beschaffung, Inventarisierung, Nutzung, Rückgabe, Audit).
  https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
-### Anforderungen an Lizenzverwaltung in Bibliotheken
+## Anforderungen an Lizenzverwaltung in Bibliotheken
 (elektronische Ressourcen, Campus- und Konsortiallizenzen)
 #lizenzverwaltung 
 https://www2.uni-erfurt.de/bibliothek/blog/basiswissen-lizenzen-fuer-digitale-medien/
 Lizenzen halten die Bedingungen fest unter denen elektronische Ressourcen genutzt werden dürfen. Der Vertrag wird zischen Bib und Anbieter des digitalen Mediums geschlossen. Nutzer müssen sich daran halten. Das Bib wacht über die Einhaltung der Nutzungsbedingungen und leistet die Zahlungen.
 
-#### elektronische Ressourcen
+### elektronische Ressourcen
 Sammelbegriff für alle elektronischen Informationsträger
 In Bibliotheken sind das e-books, Wissenschaftliche Datenbanken, SaaS, Audiobooks, Streamingangebote, Volltextdatenbanken, elektronische Zeitschriften.
-#### Konsortiallizenzen
+- In 2019 60% der Erwebausgaben von Wissenschaftlichen Bibliotheken.
+- https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
+### Konsortiallizenzen
 - Seit ende der 1990er von Bibliotheken im Zusammensschluss ausgehandelt. Um den Zugang zu digitalen Inhalten zu ermöglichen. Um das Recht auf information  für Wissenschaft und Nutzer zu erhalten. https://webdoc.sub.gwdg.de/ebook/aw/prinzliz/text.htm
-#### Creative-Commens-Lizenzen
+### Creative-Commens-Lizenzen
 - Freie Lizenzen sind Tools, die es dem Urheber möglich machen Nuzungsbedingungen für ihr Werk fest zu legen. Sie können nicht geändert oder wiederrufen werden
 - Baukasten 4. Bausteine 6. Lizenzmodelle. 
 	- BY -  gilt immer: Urheber nennen
@@ -99,10 +101,10 @@ In Bibliotheken sind das e-books, Wissenschaftliche Datenbanken, SaaS, Audiobook
 		- Neues Format z.B. einer Datei ist keine Bearbeitung
 - https://www.uni-due.de/ub/publikationsdienste/cc_lizenzen.php
 - 
-### Rechtliche Rahmenbedingungen 
+## Rechtliche Rahmenbedingungen 
 (Urheberrecht, Nutzungsrechte, Open-Access-Modelle
 
-#### Urheberrecht
+### Urheberrecht
 https://bibliotheksportal.de/fuer-bibliotheken/recht/urheberrecht/?cn-reloaded=1
 Grundsätzlich gilt Urheber bestimmt
 Schrankenrecht
@@ -119,7 +121,7 @@ Einstieg für Studentische Nutzer
 
 https://de.wikipedia.org/wiki/Urheberrecht_in_Bibliotheken_(Deutschland)
 
-#### Nutzungsrechte
+### Nutzungsrechte
 - Private Kopie
 - Bibliotheken zahlen Pauschale an VG Wort
 - analoge Kopie für Archivierung durch Bibliothek von eigenem Orginal
@@ -128,7 +130,7 @@ https://de.wikipedia.org/wiki/Urheberrecht_in_Bibliotheken_(Deutschland)
 - Digitale Inhalte durch Terminal vor Ort 
 - Data Mining nur im Rahmen von Vorschung
 
-#### Open-Access-Modelle
+### Open-Access-Modelle
 %% Quelle: Google KI Antwort%%
 - Ziel wissenschaftliche ERgebnisse Frei zu gänglich machen.
 - Kosten für Zugang senken
@@ -140,9 +142,85 @@ https://de.wikipedia.org/wiki/Urheberrecht_in_Bibliotheken_(Deutschland)
 - **[Diamond/Platin OA](https://www.google.com/search?q=Diamond%2FPlatin+OA&client=firefox-b-d&hs=Tde9&sca_esv=99bb3a357913b4a3&channel=entpr&ei=C1FBacPiKOD97_UPvYTuyAM&ved=2ahUKEwi5j47HjsKRAxVk_rsIHY9mETsQgK4QegQIAxAH&uact=5&oq=open-access-modelle+bibliothek&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm9wZW4tYWNjZXNzLW1vZGVsbGUgYmlibGlvdGhlazIFECEYoAEyBRAhGKABSNOdAVDKF1iLlwFwAngCkAEAmAGVAaAB6QeqAQM1LjW4AQPIAQD4AQGYAg2gAqsIwgIEEAAYR8ICBhAAGA0YHsICBBAAGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcDNy42oAeTLbIHAzQuNrgHnQjCBwUwLjguNcgHHYAIAA&sclient=gws-wiz-serp) (Diamond/Platinum Open Access):** Publikation ist für Autoren und Leser komplett kostenfrei, oft durch Institutionen oder Konsortien (wie bei der Open Library of Humanities) getragen.
 - **[Freemium](https://www.google.com/search?q=Freemium&client=firefox-b-d&hs=Tde9&sca_esv=99bb3a357913b4a3&channel=entpr&ei=C1FBacPiKOD97_UPvYTuyAM&ved=2ahUKEwi5j47HjsKRAxVk_rsIHY9mETsQgK4QegQIAxAJ&uact=5&oq=open-access-modelle+bibliothek&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm9wZW4tYWNjZXNzLW1vZGVsbGUgYmlibGlvdGhlazIFECEYoAEyBRAhGKABSNOdAVDKF1iLlwFwAngCkAEAmAGVAaAB6QeqAQM1LjW4AQPIAQD4AQGYAg2gAqsIwgIEEAAYR8ICBhAAGA0YHsICBBAAGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcDNy42oAeTLbIHAzQuNrgHnQjCBwUwLjguNcgHHYAIAA&sclient=gws-wiz-serp)-Modelle (OA für Bücher):** Kostenlose OA-Versionen werden durch den Verkauf anderer digitaler Formate oder Zusatzfunktionen subventioniert (z.B. bei [OpenEdition](https://www.google.com/search?q=OpenEdition&client=firefox-b-d&hs=Tde9&sca_esv=99bb3a357913b4a3&channel=entpr&ei=C1FBacPiKOD97_UPvYTuyAM&ved=2ahUKEwi5j47HjsKRAxVk_rsIHY9mETsQgK4QegQIAxAK&uact=5&oq=open-access-modelle+bibliothek&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm9wZW4tYWNjZXNzLW1vZGVsbGUgYmlibGlvdGhlazIFECEYoAEyBRAhGKABSNOdAVDKF1iLlwFwAngCkAEAmAGVAaAB6QeqAQM1LjW4AQPIAQD4AQGYAg2gAqsIwgIEEAAYR8ICBhAAGA0YHsICBBAAGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcDNy42oAeTLbIHAzQuNrgHnQjCBwUwLjguNcgHHYAIAA&sclient=gws-wiz-serp)).
 
-### Kennzahlen
+## Kennzahlen
 https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
-### Bibliotheksmanagementsysteme (BMS/ILS) 
+- Ziel
+	- Budget effizient nutzen
+	- Bibliotheksauftrag erfüllen
+- Entscheidungsparameter
+-  Vorraussetzung für Bestandskontrolle 
+- Datenbasis - Umfrage
+		- Unterschiedliche Budgets
+-  Nutzungsstatistiken der VErlage
+	- Detailierte Auswertung der Zugriffe in Pakette findet oft nicht statt
+	- "Differenzierung von Nutzungszahlen"
+- Kosten-Nutzen-Kennzahlen
+	- Verhätnis Nutzung und Kosten
+		- Kosten per Download
+		- Kosten per Suchanfrage
+		- Kosten per Erignisanfrage
+		- Kosten per Zitation
+	- Zum Zeitpunkt der VEröffenltichung erden Kennzahlen manuell ermittelt
+	- Eingrenzung der Daten
+		- Nutzungszahlen - Aktivitäten, Zugriffe nach AccessMöglichkeiten Oben-Access, Nationellizenzen, Zeitschriften Jahrgänge ect
+			- COUNTER-Standard
+- Referenzwerte
+	- Maximalwert für die Kosten pro Volltextabruf
+	- Fächerspezifische Durchschnitswerte
+	- Definizion aus dem Bauch
+- Kosten der Alternaitvbeschaffung - PyaperView, Fernleihe
+- Grenzwerte Kosten pro Download
+	- individuell Fest gelegt
+		- Geisteswissesschaffen  niedriger als Mint
+		- Abwägung - FErnleihe wird seltener genutzt als Lizenz
+		- Kündigung oft Ultimartion
+	- Qualititative Einflussfaktoren
+- Evaluation von Open-Access-Ausgaben - Kompexesthema
+	- OA-Ansatz -grün, Gold etc
+	- Finazierungsform (Konsortiom, Offsetting-Verlag)
+	- Lizenzmodel
+	- inhaltliche Relvanz
+- Verschiebung von SubsKripionsmodellen zu OA
+- 
+### Faktoren
+- Kosten pro Download
+- Nutzungszahlen
+- Grenzwert Kosten
+- Alternativ Beschaffung
+- Qualitative Einflussfaktoren
+#### Weiterführend
+- [x] Counter-Standard
+- [x] https://www.countermetrics.org/wp-content/uploads/2024/04/GERMAN-Metrics-guide.pdf
+- Standard um Metriken für die Nutzung von ER zu erheben
+	- Nutzungsmetriken
+		- Art der Nutzung von Inhalten
+			- Vergelich von Nutzungsmustern
+		- Investigations vs Requests
+			- jeder R ist eine I nicht jede I ist ein R
+			- I -> Metadaten betrachten
+		- Gesamtanzahl und als deduplizierte, eindeutige Werte.
+> “Total Item Investigations“ und “Total Item Requests“ beziehen sich
+> auf die Ebene der „Items“ und zählen jede Interaktion.
+>  “Unique Item Investigations“ und “Unique Item Requests“ beziehen
+> sich ebenfalls auf die Ebene der Items, bereinigen aber die
+> Gesamtzahlen, so dass nur eine Interaktion pro Benutzersitzung
+> angezeigt wird.
+>  “Unique Title Investigations“ und “Unique Title Requests“
+> kondensieren die eindeutigen Zahlen noch weiter: Es wird nur eine
+> Interaktion pro Benutzersitzung pro Buch angezeigt.
+- 
+	- Suchmetriken
+		- WElche DB werden wie oft genutzt
+			- welche DB wird dabei gezielt ausgewählt
+	- Zugriffsverweigerrungsmetrik
+		- Institution besitzt keine Lizenz
+		- Lizenz reicht aktuell  nicht für die Anzahl der nutzer aus.
+	- Kosten per Download
+		- berechnung mit UIR
+			- KpD  Bei Abos URI durch jahr Ausgaben
+			- KpD Buch URI durch Anschffungskosten
+			- KpD OA Global Item report
+## Bibliotheksmanagementsysteme (BMS/ILS) 
  https://it-in-bibliotheken.de/bibliotheksmanagementsysteme.html
  -  Ursprünglich System zur Verwaltung von Beschaffung, Ausleihe, Nutzerverwaltung, Kataloge
  - Elekronishe Medien nicht abbildbar - Eigene Systeme, Schnittstellen
@@ -181,7 +259,7 @@ https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
 		- Authentifizierung
 	- LAS:eR bundesweites Resource Managment System für Biliotheken und Konsortialstellen
 https://www.hbz-nrw.de/produkte/digitale-inhalte/las-er/las-er-lizenzmanager-single-und-kollektiv
-## Begriffe
+# Begriffe
 Bibliotheksmanagmantsystem - BMS
 Libary Managment System - LMS
 Intigratet Libarary System - ILS
@@ -190,9 +268,10 @@ Electronoc Resource Managment - ERM
 OPAC- Online Public Access Catalogue
 Repositorien -Dokumenten, Digitalsateserver, Forschnungsdatenserver ect.
  Digitalisate - elektronische Versionen von Druckwerken aus Bibliotheksbesitz
-## Material
+# Material
 https://www.hbz-nrw.de/produkte/digitale-inhalte
 https://www.hbz-nrw.de/produkte/digitale-inhalte/las-er/las-er-lizenzmanager-single-und-kollektiv
-## Ergebnisse
+https://yis.univie.ac.at/index.php/yis/article/view/2417
+# Ergebnisse
 - [ ] 
 - [ ] 
