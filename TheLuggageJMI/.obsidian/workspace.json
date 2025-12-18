@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/10_September/2025-09-05.md",
+                "file": "Tagebuch/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "2025-12-18"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/10_September/2025-09-05.md",
+                "file": "Tagebuch/2025-12-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-09-05"
+              "title": "Gliederung von 2025-12-18"
             }
           }
         ],
@@ -206,6 +206,9 @@
   },
   "active": "f903ce0e7192cbd0",
   "lastOpenFiles": [
+    "Tagebuch/2025-12-16.md",
+    "Tagebuch/2025-12-18.md",
+    "Tagebuch/10_September/2025-09-05.md",
     "Backlog/Arbeitsplatz.md",
     "HierGehtsLos/Sicherung Milanote/safe-space.md",
     "Sammelaktion.md",
@@ -229,9 +232,6 @@
     "Tagebuch/12_Dezember/2025-12-13 Jakob geb..md",
     "Tagebuch/12_Dezember/2025-12-12.md",
     "Tagebuch/12_Dezember/2025-12-11.md",
-    "Tagebuch/12_Dezember/2025-12-09.md",
-    "Tagebuch/12_Dezember/2025-12-10 1.md",
-    "Tagebuch/12_Dezember/2025-12-08 1.md",
     "Tagebuch/12_Dezember",
     "Tagebuch/11_November",
     "templates",
