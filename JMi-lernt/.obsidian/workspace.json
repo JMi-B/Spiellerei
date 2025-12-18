@@ -36,49 +36,93 @@
             }
           },
           {
-            "id": "fc5b463f5ff7ac4f",
+            "id": "249605ea61bbd939",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Tools und Ressourcen.md",
+                "file": "ProjektBibliothekLizenzen/Einzelne Aufgabenblöcke.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Tools und Ressourcen"
+              "title": "Einzelne Aufgabenblöcke"
             }
           },
           {
-            "id": "615d3fa80aaccc7a",
+            "id": "b330bcbc4bd9921b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workdiary/2025Dezember/2025-12-02.md",
+                "file": "ProjektBibliothekLizenzen/Recherche der Grundlagen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "Recherche der Grundlagen"
             }
           },
           {
-            "id": "7a512eb46116d0ed",
+            "id": "9658a26a91c7969d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workdiary/2025Dezember/2025-12-08.md",
+                "file": "ProjektBibliothekLizenzen/Datengrundlage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-08"
+              "title": "Datengrundlage"
+            }
+          },
+          {
+            "id": "38b034906481536e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjektBibliothekLizenzen/Start Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Start Info"
+            }
+          },
+          {
+            "id": "bd840dcf9ef3c037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workdiary/2025Dezember/2025-12-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-17"
+            }
+          },
+          {
+            "id": "bda926ee1e40e749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workdiary/2025Dezember/2025-12-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-18"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ifelse",
+                "query": "tag:#workflow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +175,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workdiary/2025Dezember/2025-12-08.md",
+                "file": "Workdiary/2025Dezember/2025-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-08"
+              "title": "Outgoing links from 2025-12-15"
             }
           },
           {
@@ -166,8 +209,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -181,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workdiary/2025Dezember/2025-12-08.md",
+                "file": "Workdiary/2025Dezember/2025-12-17.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-08"
+              "title": "Outline of 2025-12-17"
             }
           },
           {
@@ -226,46 +269,46 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7a512eb46116d0ed",
+  "active": "bd840dcf9ef3c037",
   "lastOpenFiles": [
-    "Workdiary/November/2025-11-19.md",
-    "Workdiary/2025Dezember/2025-12-08.md",
+    "Workdiary/2025Dezember/2025-12-18.md",
     "Workdiary/Index für Workdiary.md",
-    "Workdiary/2025Dezember/2025-12-02.md",
+    "Workdiary/2025Dezember/2025-12-17.md",
+    "Workdiary/2025November/2025-11-14.md",
+    "ProjektBibliothekLizenzen/Datengrundlage.md",
+    "Workdiary/2025Dezember/2025-12-16.md",
+    "ProjektBibliothekLizenzen/Start Info.md",
+    "ProjektBibliothekLizenzen/Einzelne Aufgabenblöcke.md",
+    "ProjektBibliothekLizenzen/Recherche der Grundlagen.md",
+    "Prüfung und Projekt/Datein/SUB - Prinzipien zur Lizenzierung Richtlinien und Checkliste für Bibliotheken.htm",
+    "Prüfung und Projekt/Datein/SUB - Prinzipien zur Lizenzierung Richtlinien und Checkliste für Bibliotheken-Dateien",
+    "Workdiary/2025Dezember/2025-12-15.md",
+    "Workdiary/2025November/2025-11-28.md",
+    "Workdiary/2025November/2025-11-27.md",
+    "Workdiary/2025November/2025-11-26.md",
+    "Workdiary/2025November/2025-11-25.md",
+    "Workdiary/2025November/2025-11-24.md",
+    "Workdiary/2025Dezember/2025-12-12.md",
+    "Workdiary/2025Dezember/2025-12-11.md",
+    "Workdiary/2025Dezember/2025-12-09.md",
+    "Workdiary/2025Dezember/2025-12-08.md",
+    "ProjektBibliothekLizenzen/Aufgabenstellung.md",
+    "Prüfung und Projekt/Timeline Prüfung.md",
     "Workdiary/2025Dezember/2025-12-01.md",
-    "Workdiary/November/2025-11-28.md",
-    "Workdiary/Datein für Diary/Arbeitspakete aka PBI.md",
     "Workdiary/2025Dezember/2025-12-05.md",
-    "Material/Tools und Ressourcen.md",
-    "Material/Lern Recherche Aufgaben.md",
-    "Programieren/Mysql repair.md",
     "Workdiary/2025Dezember/2025-12-04.md",
-    "Workdiary/2025Dezember/2025-12-03.md",
-    "Programieren/Python.md",
-    "Berichtsheft/2025-10-24.md",
-    "JMi Datenbank Projekt toDo's.md",
-    "Programieren/SQL Tipps und Tricks.md",
-    "Berichtsheft/Index fürs Berichtsheft.md",
-    "Berichtsheft/2025-10-23.md",
-    "Berichtsheft/2025-10-16.md",
-    "Berichtsheft/2025-10-21.md",
-    "Berichtsheft/2025-10-20.md",
-    "Berichtsheft/2025-10-17.md",
-    "Berichtsheft/2025-10-14.md",
-    "Berichtsheft/2025-10-15.md",
-    "Berichtsheft/2025-10-13.md",
+    "Erste Seite.md",
+    "Start.md",
+    "ProjektBibliothekLizenzen/Datein/Projekt zur Prozessoptimierung einer fiktiven Bücherei.msg",
+    "ProjektBibliothekLizenzen/Datein",
+    "ProjektBibliothekLizenzen",
     "swyxon/Pasted image 20251016160023.png",
     "swyxon",
-    "Meine Vorstellungen",
+    "Prüfung und Projekt/Meine Vorstellungen",
     "Programieren",
     "Aufgaben und Projekte",
     "Material",
     "swyxon/Pasted image 20251016160119.png",
-    "swyxon/Pasted image 20251016160100.png",
-    "Meine Vorstellungen/Fachinformatiker_in__2022.pdf",
-    "~$Zeiten.xlsx",
-    "~$Berichtsheftübersicht.xlsx",
-    "~$Berichtsheftübersicht 1.xlsx",
-    "BerichtsheftVorlagePraktikum.xlsx"
+    "swyxon/Pasted image 20251016160100.png"
   ]
 }

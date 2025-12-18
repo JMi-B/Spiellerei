@@ -9,6 +9,9 @@ Tel.: 0231 5417-405
 E-Mail: [s.moor@dortmund.ihk.de](mailto:s.moor@dortmund.ihk.de "externer Link")  
   
 Pr체fungen in den Berufen: IT-Berufe, Kaufmann f체r Dialogmarketing, Kaufmann f체r Versicherungen und Finanzanlagen, Personaldienstleistungskaufmann, Servicefachkraft f체r Dialogmarketing, Sport- und Fitnesskaufmann, Sportfachmann.
+
+Bei Comcave Alexander Partin
+Laut IHK Pr체fungsanmeldung
 # Sammlung
 -  Projekt Antrag 
 	-  Anforderungen
@@ -17,3 +20,5 @@ Pr체fungen in den Berufen: IT-Berufe, Kaufmann f체r Dialogmarketing, Kaufmann f�
 -  Projekt Durchf체hrung
 - https://it-berufe-podcast.de/projektdokumentation-fachinformatiker-daten-und-prozessanalyse-von-maik-walter-mit-93-bewertet/
 - https://www.ihk.de/nordwestfalen/bildung/ausbildung/ausbildungsberufe-a-z/handreichung-fachinformatiker-daten-prozessanalyse-6718410
+# Ressourcen
+[[Ressourcen f체r DAPA]]
