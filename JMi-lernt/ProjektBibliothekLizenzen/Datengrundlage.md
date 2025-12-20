@@ -16,10 +16,10 @@ Die Probe Datenbank wird in SQl erstellt. Aus den vorgegebenen Daten werden anha
 		- wichtig für das füllen
 - wenn es mir die Zusammenhänge erklärt
 - als Optischer Anreiz für die Präsentation
-- [ ] Datenbank anlegen
+- [x] Datenbank anlegen
 - [ ] Einzel Fragen Grundlagen
-	- [ ] Bestandsaufnahme
-	- [ ] Kosten pro Lizenz
+	- [x] Bestandsaufnahme
+	- [x] Kosten pro Lizenz
 	- [ ] Nutzung je Lizenzvertrag
 - [ ] Einzel Fragen Vertiefung
 # Datenbank
@@ -237,8 +237,9 @@ Formuliere eine SQL-Abfrage, die alle Lizenzverträge mit Bibliotheksname, Lizen
 - [x] Gesamtkosten
 - [x] Sortierung von teuer nach preiswert
 - Was sind die teuersten Verträge?
-- [ ] geht auch ohne join [[2025-11-07#SQL Übungen]]
-2025-12-17
+- [ ] geht auch ohne join
+	- [[2025-11-07#SQL Übungen]]
+- [ ] 
 #### Teil 1
 - [x] Welche Tabellen?
 - lizenzvertrag
@@ -301,7 +302,7 @@ Erstelle eine Abfrage, die für jeden Lizenzvertrag die Kosten pro einzelner Liz
 	- [x] Spalte mit Berechung einfügen
 	- Wie geht das?
 		- Mit `/` als Operator
-		- `Round(BERechnung,2)`Rundet auf zwei Nchkommerstellen
+		- `Round(BERechnung,2)`Rundet auf zwei Nachkommerstellen
 ##### Teil 2
 - [x] Auswahl von teuren Verträgen
 ##### Teil 3
