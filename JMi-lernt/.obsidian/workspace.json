@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bde9137f5e28f37f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Berichtsheft/Index fürs Berichtsheft.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Index fürs Berichtsheft"
-            }
-          },
-          {
             "id": "1def5ee22141290e",
             "type": "leaf",
             "pinned": true,
@@ -37,63 +20,81 @@
             }
           },
           {
-            "id": "8d62834c1d6d8587",
+            "id": "ada22f32bf787465",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programieren/Mysql repair.md",
+                "file": "Workdiary/Index für Workdiary.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Mysql repair"
+              "title": "Index für Workdiary"
             }
           },
           {
-            "id": "10059f0d082bc642",
+            "id": "249605ea61bbd939",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berichtsheft/2025-10-20.md",
+                "file": "ProjektBibliothekLizenzen/Einzelne Aufgabenblöcke.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-10-20"
+              "title": "Einzelne Aufgabenblöcke"
             }
           },
           {
-            "id": "8576f2a73ae3c4d8",
+            "id": "38b034906481536e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JMi Datenbank Projekt toDo's.md",
+                "file": "ProjektBibliothekLizenzen/Datengrundlage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JMi Datenbank Projekt toDo's"
+              "title": "Datengrundlage"
             }
           },
           {
-            "id": "2db3a7ce44e180f0",
+            "id": "d7fc2cc644b32a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programieren/Python.md",
+                "file": "Workdiary/2025Dezember/2025-12-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "2025-12-18"
+            }
+          },
+          {
+            "id": "a8e988ee91d7ca6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjektBibliothekLizenzen/Recherche der Grundlagen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recherche der Grundlagen"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dbmodel",
+                "query": "repa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "91fb064bb913e44b",
@@ -166,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start.md",
+                "file": "Workdiary/2025Dezember/2025-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Start"
+              "title": "Outgoing links from 2025-12-15"
             }
           },
           {
@@ -181,7 +182,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -195,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
+                "file": "Workdiary/2025Dezember/2025-12-18.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of 2025-12-18"
             }
           },
           {
@@ -223,12 +224,12 @@
               "title": "Backlinks for 2025-10-06"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,50 +238,49 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2db3a7ce44e180f0",
+  "active": "d7fc2cc644b32a3e",
   "lastOpenFiles": [
-    "Berichtsheft/2025-10-24.md",
-    "JMi Datenbank Projekt toDo's.md",
-    "Programieren/SQL Tipps und Tricks.md",
-    "Berichtsheft/Index fürs Berichtsheft.md",
+    "Workdiary/2025Dezember/2025-12-17.md",
+    "Workdiary/2025Dezember/2025-12-16.md",
+    "Workdiary/2025Dezember/2025-12-15.md",
+    "Workdiary/2025Dezember/2025-12-18.md",
+    "Workdiary/2025Dezember/2025-12-19.md",
+    "ProjektBibliothekLizenzen/Datengrundlage.md",
+    "ProjektBibliothekLizenzen/Recherche der Grundlagen.md",
+    "Workdiary/2025November/2025-11-07.md",
     "Programieren/Mysql repair.md",
-    "Berichtsheft/2025-10-23.md",
-    "Berichtsheft/2025-10-16.md",
-    "Berichtsheft/2025-10-21.md",
-    "Berichtsheft/2025-10-20.md",
-    "Berichtsheft/2025-10-17.md",
-    "Berichtsheft/2025-10-14.md",
-    "Berichtsheft/2025-10-15.md",
-    "Berichtsheft/2025-10-13.md",
-    "Berichtsheft/2025-10-10.md",
-    "swyxon/Pasted image 20251016160023.png",
-    "Aufgaben und Projekte/OpenCV.md",
-    "swyxon",
-    "Meine Vorstellungen/Ressourcen für DAPA.md",
-    "Meine Vorstellungen/Buchempfehlung.md",
-    "Material/Lern Recherche Aufgaben.md",
-    "Meine Vorstellungen/Fragen zu Klausuren.md",
-    "Meine Vorstellungen",
     "Erste Seite.md",
-    "Start.md",
-    "Aufgaben und Projekte/EXIF.md",
+    "Programieren/SQL Tipps und Tricks.md",
+    "Workdiary/Index für Workdiary.md",
+    "ProjektBibliothekLizenzen/Noch offen.md",
+    "ProjektBibliothekLizenzen/Start Info.md",
+    "ProjektBibliothekLizenzen/Einzelne Aufgabenblöcke.md",
+    "Workdiary/2025September/2025-09-29.md",
+    "Workdiary/2025September/2025-09-30.md",
+    "Workdiary/2025September",
+    "Workdiary/2025November/2025-11-14.md",
+    "Prüfung und Projekt/Datein/SUB - Prinzipien zur Lizenzierung Richtlinien und Checkliste für Bibliotheken.htm",
+    "Prüfung und Projekt/Datein/SUB - Prinzipien zur Lizenzierung Richtlinien und Checkliste für Bibliotheken-Dateien",
+    "Workdiary/2025November/2025-11-28.md",
+    "Workdiary/2025November/2025-11-27.md",
+    "Workdiary/2025November/2025-11-26.md",
+    "Workdiary/2025November/2025-11-25.md",
+    "Workdiary/2025November/2025-11-24.md",
+    "Workdiary/2025Dezember/2025-12-12.md",
+    "Workdiary/2025Dezember/2025-12-11.md",
+    "Workdiary/2025Dezember/2025-12-09.md",
+    "ProjektBibliothekLizenzen/Datein/Projekt zur Prozessoptimierung einer fiktiven Bücherei.msg",
+    "ProjektBibliothekLizenzen/Datein",
+    "ProjektBibliothekLizenzen",
+    "swyxon/Pasted image 20251016160023.png",
+    "swyxon",
+    "Prüfung und Projekt/Meine Vorstellungen",
     "Programieren",
-    "Material/Metadaten.md",
-    "Aufgaben und Projekte/Liste abrufen und in eigener Datenbank ablegen.md",
-    "Programieren/ELT.md",
-    "Aufgaben und Projekte/Diagramme erstellen mit Supperset.md",
     "Aufgaben und Projekte",
-    "Material",
     "swyxon/Pasted image 20251016160119.png",
-    "swyxon/Pasted image 20251016160100.png",
-    "Meine Vorstellungen/Fachinformatiker_in__2022.pdf",
-    "~$Zeiten.xlsx",
-    "~$Berichtsheftübersicht.xlsx",
-    "~$Berichtsheftübersicht 1.xlsx",
-    "BerichtsheftVorlagePraktikum.xlsx"
+    "swyxon/Pasted image 20251016160100.png"
   ]
 }

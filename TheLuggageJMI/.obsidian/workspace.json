@@ -1,13 +1,14 @@
 {
   "main": {
-    "id": "3ef21c8a5e7a405c",
+    "id": "fce719d435536cbe",
     "type": "split",
     "children": [
       {
-        "id": "ab2f2c6339b671a3",
+        "id": "24d48c9b7983ef70",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "32bcde2ab8ebe378",
             "type": "leaf",
             "pinned": true,
@@ -33,6 +34,9 @@
           },
           {
             "id": "f903ce0e7192cbd0",
+=======
+            "id": "616c519c6a75cf79",
+>>>>>>> 46407c9c8c114651d5957c96f0cd97b903f6144a
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,24 +57,37 @@
               },
               "icon": "lucide-file",
               "title": "2025-12-18"
+<<<<<<< HEAD
+=======
+            }
+          },
+          {
+            "id": "6f752fe4afb20dcc",
+            "type": "leaf",
+            "state": {
+              "type": "big-calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
+>>>>>>> 46407c9c8c114651d5957c96f0cd97b903f6144a
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d029e292e2a01286",
+    "id": "a533891e2169f623",
     "type": "split",
     "children": [
       {
-        "id": "0832eea1e68738aa",
+        "id": "c376ceabc1c11382",
         "type": "tabs",
         "children": [
           {
-            "id": "246968c44ab85e5e",
+            "id": "e8bf45a37bc05729",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,11 +96,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
-            "id": "2563eaf7c181fc1b",
+            "id": "8b9a81d4dd582293",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,7 +117,7 @@
             }
           },
           {
-            "id": "f873439aa5697fdf",
+            "id": "8dafecd30a4897cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,20 +133,20 @@
     "width": 300
   },
   "right": {
-    "id": "ca88a86015a53491",
+    "id": "623a15abb02f34b0",
     "type": "split",
     "children": [
       {
-        "id": "2e0f55461684ed84",
+        "id": "271126114afd8efa",
         "type": "tabs",
         "children": [
           {
-            "id": "532ca90d52b314de",
+            "id": "0f76a7ff2413e040",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,25 +156,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für safe-space-250830_0948"
+              "title": "Rückverweise für 2025-12-14"
             }
           },
           {
-            "id": "dfef3e509baed258",
+            "id": "516176bbeb25a902",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HierGehtsLos/Sicherung Milanote/safe-space-250830_0948.md",
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von safe-space-250830_0948 öffnen"
+              "title": "Ausgehende Links von 2025-12-14 öffnen"
             }
           },
           {
-            "id": "9ef5d04a2b5f412a",
+            "id": "968783553cf25f8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,39 +189,51 @@
             }
           },
           {
-            "id": "b03d3d730d134fb5",
+            "id": "e4f98883cce000b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Tagebuch/2025-12-18.md",
+=======
+                "file": "Tagebuch/12_Dezember/2025-12-14.md",
+>>>>>>> 46407c9c8c114651d5957c96f0cd97b903f6144a
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Gliederung von 2025-12-18"
+=======
+              "title": "Gliederung von 2025-12-14"
+>>>>>>> 46407c9c8c114651d5957c96f0cd97b903f6144a
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "big-calendar:Big Calendar": false
     }
   },
+<<<<<<< HEAD
   "active": "f903ce0e7192cbd0",
+=======
+  "active": "6f752fe4afb20dcc",
+>>>>>>> 46407c9c8c114651d5957c96f0cd97b903f6144a
   "lastOpenFiles": [
     "Tagebuch/2025-12-16.md",
     "Tagebuch/2025-12-18.md",
@@ -217,6 +246,7 @@
     "Tagebuch/2025-12-14.md",
     "KAKEBO.md",
     "Tagebuch/12_Dezember/2025-12-14.md",
+<<<<<<< HEAD
     "Rücklagen.md",
     "templates/{{title}}.md",
     "templates/Daily Note.md",
@@ -236,5 +266,9 @@
     "Tagebuch/11_November",
     "templates",
     "daily note"
+=======
+    "Tagebuch/2025-12-18.md",
+    "Tagebuch/2025-12-14.md"
+>>>>>>> 46407c9c8c114651d5957c96f0cd97b903f6144a
   ]
 }
