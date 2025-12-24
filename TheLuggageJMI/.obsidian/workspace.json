@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/2025-12-21.md",
+                "file": "Backlog/Das Sekretariat wird gegründet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-21"
+              "title": "Das Sekretariat wird gegründet"
+            }
+          },
+          {
+            "id": "0c25a693ecf0f007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Unbenannt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +204,15 @@
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "96710377f2a99118",
+  "active": "0c25a693ecf0f007",
   "lastOpenFiles": [
+    "Unbenannt.md",
+    "Backlog/Das Sekretariat wird gegründet.md",
+    "Tagebuch/2025-12-21.md",
     "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
     "Backlog/Wie geht es weiter.md",
     "Backlog/Ideen Box.md",
     "Backlog/KAKEBO.md",
-    "Tagebuch/10_September/2025-09-02.md",
-    "Tagebuch/2025-12-21.md"
+    "Tagebuch/10_September/2025-09-02.md"
   ]
 }
