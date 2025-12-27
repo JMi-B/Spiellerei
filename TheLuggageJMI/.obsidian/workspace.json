@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96710377f2a99118",
+            "id": "975b756128257d9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/Das Sekretariat wird gegründet.md",
+                "file": "Tagebuch/2025-12-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Das Sekretariat wird gegründet"
+              "title": "2025-12-21"
             }
           },
           {
-            "id": "0c25a693ecf0f007",
+            "id": "86a944b11220dd92",
             "type": "leaf",
             "state": {
               "type": "big-calendar",
@@ -40,9 +40,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Big Calendar"
             }
+          },
+          {
+            "id": "49ee3c3ede7215ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "schreiben-250827_0619"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SZB",
+                "query": "schreiben",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,11 +214,21 @@
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "0c25a693ecf0f007",
+  "active": "49ee3c3ede7215ad",
   "lastOpenFiles": [
-    "Unbenannt.md",
-    "Backlog/Das Sekretariat wird gegründet.md",
+    "HierGehtsLos/Sicherung.md",
+    "Suche Schreiben Überblick.md",
+    "Tagebuch/2025-12-27.md",
+    "HierGehtsLos/Sicherung Milanote/arbeitsuche-250827_0610.md",
+    "Backlog/Arbeitsplatz.md",
+    "Tagebuch/10_September/2025-09-20.md",
+    "Tagebuch/10_September/2025-09-04.md",
     "Tagebuch/2025-12-21.md",
+    "Tagebuch/12_Dezember/2025-12-21 4. Advent.md",
+    "Tagebuch/12_Dezember/2025-12-14.md",
+    "Tagebuch/12_Dezember/2025-12-26 Weichnachten.md",
+    "HierGehtsLos/Sicherung Milanote/backlog-250829_0632.md",
+    "Backlog/Das Sekretariat wird gegründet.md",
     "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
     "Backlog/Wie geht es weiter.md",
     "Backlog/Ideen Box.md",

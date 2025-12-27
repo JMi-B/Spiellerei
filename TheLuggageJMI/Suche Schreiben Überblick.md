@@ -1,0 +1,17 @@
+[[2025-12-27]]
+
+1. [2025-09-04](Tagebuch/10_September/2025-09-04.md)
+2.  [2025-12-27](Tagebuch/2025-12-27.md)
+3. [Arbeitsplatz](Backlog/Arbeitsplatz.md)
+4. [arbeitsuche-250827_0610](HierGehtsLos/Sicherung Milanote/arbeitsuche-250827_0610.md)
+5. [backlog-250829_0632](HierGehtsLos/Sicherung Milanote/backlog-250829_0632.md)
+6. [daily-log-250902_0638](HierGehtsLos/Sicherung Milanote/daily-log-250902_0638.md)
+7. [die-ps-250828_0903](HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md)
+8. [Ideen Box](Backlog/Ideen Box.md)
+9. [Import von Milanote](HierGehtsLos/Sicherung Milanote/Import von Milanote.md)
+10. [kchenzettel-250902_0637](HierGehtsLos/Sicherung Milanote/kchenzettel-250902_0637.md)
+11. [schreiben-250827_0619](HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md)
+12. [strickprogramm-250827_0617](HierGehtsLos/Sicherung Milanote/strickprogramm-250827_0617.md)
+13. [was-wann-wie-250828_0904](HierGehtsLos/Sicherung Milanote/was-wann-wie-250828_0904.md)
+14. [Wie geht es weiter](Backlog/Wie geht es weiter.md)
+15. [Zwischen Prüfung](Zwischen Prüfung.md)
