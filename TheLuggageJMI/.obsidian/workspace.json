@@ -35,24 +35,10 @@
             "id": "0c25a693ecf0f007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unbenannt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unbenannt"
+              "type": "big-calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
             }
           }
         ],
