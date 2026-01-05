@@ -7,22 +7,17 @@
 5. Rolle moderner [[#Bibliotheksmanagementsysteme (BMS/ILS)]]bei der Automatisierung von Lizenzverwaltungsprozessen.
 # Beschreibung
 - Recherche der Grundlagen für Lizenzbedingungen und Prozesse für Bibliotheken.
-- Ist ein Teil der IST-Analyse. Bietet den einstieg in das Thema.
-- Die Grundlagen des Lizenzmanagements für Bibliotheken verstehen.
-- Schwerpunkt Kostenmanagement.
-- Warum ist das wichtig?
--  Wo sind die Herausforderungen?
-	- was ist zu beachten. 
+- Sie bietet den Einstieg in das Thema. Ich möchte die Prozesse verstehen und einordnen.
+- Ziel ist es die Herrausforderungen des Lizenzmanagements für Bibliotheken verstehen.
+	- Der Schwerpunkt liegt dabei auf dem Kostenmanagement.
 - Welche Tools und Möglichkeiten gibt es den Problemen zu begegnen?
 - Welche rechtlichen Rahmbedingungen sind zu beachten 
-- [ ] was sind die wichtigsten Kennzahlen.
-- [ ] Welche Lizenzmodelle gibt es?
-- [ ] Wie wende ich das konkret für die Aufgabe an?
-- [ ] Prozesse verstehen und einordnen
-- [ ] Teil der Ist-Analyse
+- Konkrete gehören dazu 
+	- die wichtigsten Kennzahlen.
+	- Verschiedene Lizenzmodelle.
 # Akzeptanzkriterien
 - in der Präsentation 2- 3 Folien
-- Die Recherche ermöglicht es sinnvolle Einsparpotentiale zu erkennen
+- Die Recherche ermöglicht, es sinnvolle Einsparpotentiale zu erkennen
 - Versetzt mich in die Lage einem Fachfremden die Zusammenhänge zu erklären.
 # Umsetzung
 ## Mein Einstieg
@@ -43,6 +38,7 @@ Nachhaltiger Zugang
 > Lizenzverwaltung in Bibliotheken umfasst sämtliche Prozesse im Zusammenhang mit der Beschaffung, Dokumentation, Kontrolle, Pflege und Verlängerung von Nutzungsrechten für digitale Medien.
 
 #### Lizenzmodelle
+#Lizenzmodelle
 - Einzellizenz - Ein Werk ein Nutzer
 - Campuslizenzen - alle Mitglieder einer Einrichtung
 - Konsotialllizenzen - Zusammenschluss von Einrichtungen
@@ -77,6 +73,9 @@ Nachhaltiger Zugang
 ### Prozesse
  (Beschaffung, Inventarisierung, Nutzung, Rückgabe, Audit).
  https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
+ - Budget effizient und zielgerichtet Nutzen
+ - Bestandscontrolling
+ - Erhebung und Auswertung der Nutzungsstatistik
 ## Anforderungen an Lizenzverwaltung in Bibliotheken
 (elektronische Ressourcen, Campus- und Konsortiallizenzen)
 #lizenzverwaltung 
@@ -128,11 +127,12 @@ https://de.wikipedia.org/wiki/Urheberrecht_in_Bibliotheken_(Deutschland)
 - Digitale Kopie muss auch Analog zugänglich sein.
 - kopei zu Bibliothekszwecken
 - Digitale Inhalte durch Terminal vor Ort 
-- Data Mining nur im Rahmen von Vorschung
+- Data Mining nur im Rahmen von Forschung
 
 ### Open-Access-Modelle
+#Lizenzmodelle 
 %% Quelle: Google KI Antwort%%
-- Ziel wissenschaftliche ERgebnisse Frei zu gänglich machen.
+- Ziel wissenschaftliche Ergebnisse Frei zu gänglich machen.
 - Kosten für Zugang senken
 - Wichtige Open-Access-Modelle
 
@@ -143,6 +143,7 @@ https://de.wikipedia.org/wiki/Urheberrecht_in_Bibliotheken_(Deutschland)
 - **[Freemium](https://www.google.com/search?q=Freemium&client=firefox-b-d&hs=Tde9&sca_esv=99bb3a357913b4a3&channel=entpr&ei=C1FBacPiKOD97_UPvYTuyAM&ved=2ahUKEwi5j47HjsKRAxVk_rsIHY9mETsQgK4QegQIAxAJ&uact=5&oq=open-access-modelle+bibliothek&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm9wZW4tYWNjZXNzLW1vZGVsbGUgYmlibGlvdGhlazIFECEYoAEyBRAhGKABSNOdAVDKF1iLlwFwAngCkAEAmAGVAaAB6QeqAQM1LjW4AQPIAQD4AQGYAg2gAqsIwgIEEAAYR8ICBhAAGA0YHsICBBAAGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcDNy42oAeTLbIHAzQuNrgHnQjCBwUwLjguNcgHHYAIAA&sclient=gws-wiz-serp)-Modelle (OA für Bücher):** Kostenlose OA-Versionen werden durch den Verkauf anderer digitaler Formate oder Zusatzfunktionen subventioniert (z.B. bei [OpenEdition](https://www.google.com/search?q=OpenEdition&client=firefox-b-d&hs=Tde9&sca_esv=99bb3a357913b4a3&channel=entpr&ei=C1FBacPiKOD97_UPvYTuyAM&ved=2ahUKEwi5j47HjsKRAxVk_rsIHY9mETsQgK4QegQIAxAK&uact=5&oq=open-access-modelle+bibliothek&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm9wZW4tYWNjZXNzLW1vZGVsbGUgYmlibGlvdGhlazIFECEYoAEyBRAhGKABSNOdAVDKF1iLlwFwAngCkAEAmAGVAaAB6QeqAQM1LjW4AQPIAQD4AQGYAg2gAqsIwgIEEAAYR8ICBhAAGA0YHsICBBAAGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcDNy42oAeTLbIHAzQuNrgHnQjCBwUwLjguNcgHHYAIAA&sclient=gws-wiz-serp)).
 
 ## Kennzahlen
+#Kennzahlen
 https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
 - Ziel
 	- Budget effizient nutzen
@@ -160,37 +161,41 @@ https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
 		- Kosten per Suchanfrage
 		- Kosten per Erignisanfrage
 		- Kosten per Zitation
-	- Zum Zeitpunkt der VEröffenltichung erden Kennzahlen manuell ermittelt
+	- Zum Zeitpunkt der VEröffenltichung werden Kennzahlen manuell ermittelt
 	- Eingrenzung der Daten
 		- Nutzungszahlen - Aktivitäten, Zugriffe nach AccessMöglichkeiten Oben-Access, Nationellizenzen, Zeitschriften Jahrgänge ect
 			- COUNTER-Standard
 - Referenzwerte
 	- Maximalwert für die Kosten pro Volltextabruf
-	- Fächerspezifische Durchschnitswerte
-	- Definizion aus dem Bauch
-- Kosten der Alternaitvbeschaffung - PyaperView, Fernleihe
+	- Fächerspezifische Durchschnittswerte
+	- Definition aus dem Bauch
+- Kosten der Alternaitvbeschaffung
+	- PayperView
+	-  Fernleihe
 - Grenzwerte Kosten pro Download
 	- individuell Fest gelegt
-		- Geisteswissesschaffen  niedriger als Mint
-		- Abwägung - FErnleihe wird seltener genutzt als Lizenz
-		- Kündigung oft Ultimartion
+		- Geisteswissenschaften niedriger als Mint
+		- Abwägung - Fernleihe wird seltener genutzt als Lizenz
+		- Kündigung oft Ultimaration
 	- Qualititative Einflussfaktoren
 - Evaluation von Open-Access-Ausgaben - Kompexesthema
 	- OA-Ansatz -grün, Gold etc
 	- Finazierungsform (Konsortiom, Offsetting-Verlag)
 	- Lizenzmodel
 	- inhaltliche Relvanz
-- Verschiebung von SubsKripionsmodellen zu OA
-- 
+- Verschiebung von Subskripionsmodellen zu OA
+[[mkatzmayr,+Zeitschriftenredakteur_in,+1790-6184-1-PB.pdf]]
 ### Faktoren
-- Kosten pro Download
+- Kosten pro Download- 
+	- relativ unkompliziert
 - Nutzungszahlen
 - Grenzwert Kosten
 - Alternativ Beschaffung
 - Qualitative Einflussfaktoren
 #### Weiterführend
+#Kennzahlen
 - [x] Counter-Standard
-- [x] https://www.countermetrics.org/wp-content/uploads/2024/04/GERMAN-Metrics-guide.pdf
+- [ ] https://www.countermetrics.org/wp-content/uploads/2024/04/GERMAN-Metrics-guide.pdf
 - Standard um Metriken für die Nutzung von ER zu erheben
 	- Nutzungsmetriken
 		- Art der Nutzung von Inhalten
@@ -216,8 +221,8 @@ https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
 		- Institution besitzt keine Lizenz
 		- Lizenz reicht aktuell  nicht für die Anzahl der nutzer aus.
 	- Kosten per Download
-		- berechnung mit UIR
-			- KpD  Bei Abos URI durch jahr Ausgaben
+		- Berechnung mit UIR
+			- KpD  Bei Abos URI durch Jahr Ausgaben
 			- KpD Buch URI durch Anschffungskosten
 			- KpD OA Global Item report
 ## Bibliotheksmanagementsysteme (BMS/ILS) 
@@ -245,10 +250,10 @@ https://o-bib-ojs3test.ub.uni-muenchen.de/bib/article/download/5672/8347
 	- Verfügbarkeit von Datenbanken
 	- Verwaltung elektronischeer Ressourcen
 	- Schnittstellen zu Discovery-Systemen statt integriertem Katalog
-- Für Verwaltung von electronischer Ressourcen gibt es Electronic Ressource Managment-Tools und Datenabnken
+- Für Verwaltung von ER gibt es Electronic Ressource Managment-Tools und Datenbanken
 - Discovers-Systeme
-	- Recherchplattform mit Einheitlichemzugang zu Medie über Lokale Bibliothek hinaus. 
-	- Suchmaschiene 
+	- Recherchplattform mit einheitlichem Zugang zu Medien über Lokale Bibliothek hinaus. 
+	- Suchmaschine 
 	- über den OPAC hinausgehende Funktion
 	- Macht die gemeinsame Nutzung von Datenbeständen möglich
 	- Komponenten
@@ -272,6 +277,7 @@ Repositorien -Dokumenten, Digitalsateserver, Forschnungsdatenserver ect.
 https://www.hbz-nrw.de/produkte/digitale-inhalte
 https://www.hbz-nrw.de/produkte/digitale-inhalte/las-er/las-er-lizenzmanager-single-und-kollektiv
 https://yis.univie.ac.at/index.php/yis/article/view/2417
+![[mkatzmayr,+Zeitschriftenredakteur_in,+1790-6184-1-PB.pdf]]
 # Ergebnisse
 - [ ] 
 - [ ] 

@@ -1,13 +1,14 @@
-# IST-Analyse des Datenbestands
+
 Worum geht es. 
-## Grundlagen recherche
+# Grundlagen recherche
 [[Recherche der Grundlagen]]
 - [ ] Prozesse verstehen und einordnen
-1. Grundlagen des Lizenzmanagements und typische Prozesse (Beschaffung, Inventarisierung, Nutzung, Rückgabe, Audit).
-2. Spezielle Anforderungen an Lizenzverwaltung in Bibliotheken (elektronische Resourcen, Campus- und Konsortiallizenzen)
-3. Rechtliche Rahmenbedingungen (Urheberrecht, Nutzungsrechte, Open-Access-Modelle)
-4. Kennzahlen und Nutzungsanalysen für Lizenzoptimierung (z.B. Kosten pro Nutzung, Auslastung, Low-Use-Titel)
-5. Rolle moderner Bibliotheksmanagementsysteme (BMS/ILS) bei der Automatisierung von Lizenzverwaltungsprozessen.
+### Grundlagen des Lizenzmanagements und typische Prozesse (Beschaffung, Inventarisierung, Nutzung, Rückgabe, Audit).
+### Spezielle Anforderungen an Lizenzverwaltung in Bibliotheken (elektronische Resourcen, Campus- und Konsortiallizenzen)
+### Rechtliche Rahmenbedingungen (Urheberrecht, Nutzungsrechte, Open-Access-Modelle)
+### Kennzahlen und Nutzungsanalysen für Lizenzoptimierung (z.B. Kosten pro Nutzung, Auslastung, Low-Use-Titel)
+### Rolle moderner Bibliotheksmanagementsysteme (BMS/ILS) bei der Automatisierung von Lizenzverwaltungsprozessen.
+# IST-Analyse des Datenbestands
 ## Datengrundlage
 - [ ] Datenbank erstellen [[Datengrundlage]]
 - [ ] Abfragen für die Präsentation
@@ -67,7 +68,8 @@ Erstelle eine Abfrage, die pro Bibliothek die Summe der Lizenzkosten (kosten_ges
 # Verbesserungsmöglichkeiten finden und vorschlagen
 Das ist das Ziel- Folien
 
-# Präsentation
+# [[Präsentation]]
+
 pro Minute eine Folie Plus Titel, Begrüßung und Verabschiedung
 Ich lese Folien nicht vor.
 Sie enthalten die wichtigsten Stichworte und Zusammenhänge.

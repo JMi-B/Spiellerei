@@ -23,13 +23,21 @@ Die Probe Datenbank wird in SQl erstellt. Aus den vorgegebenen Daten werden anha
 	- [ ] Nutzung je Lizenzvertrag
 - [ ] Einzel Fragen Vertiefung
 # Datenbank
-## Tabellen
+## Beschreibung
+Die Datenbank besteht aus sechs Tabellen. In jeder Tabelle sind ungefähr 20 Datensätze. Die Tabellen sind über Fremdschlüssel mit einander verbunden. Die Schlüssel wurden hardcodiert. Die Tabelle Bibliothek wird sowohl von Nutzer als auch von Lizenzvertrag als FK genutzt. Lizenzvertrag ist über Lizenznutzung mit den Nutzern verbunden. Lizenzvertrag hat noch greift noch auf Lizenzmodell zu und Nutzer auf Nutzerrollen.
+### Tabellen
 - bibliothek
 - benutzerrollen
 - nutzer
 - lizenzmodell
 - lizensvertrag
 - lizenznutzung
+### Daten
+Die Bibliotheken sind eine Mischung aus öffentlihcen, wissenschaftlichen und Spezielbibliotheken. Die öffentlichen reichen von schul und Dorfbibliotheken bis zu Landesbibliotheken. Bei den  Spezialbibliotheken sind teilstechnisch und Firmenbibliotheken angeschlossen. Es gibt aucheine Virtulle Regional Bibliothek. 
+Die Lizenzenmodelle sind teillweise Lizenzen für die Bibliothekarearbeit, teilweise sind sie Arbeitslizenzen für Nutzung von ER. Es gibt eBook-Bundel, Campusslizenzen und Fachdatenbanken.
+Die Anzhal der Lizenzen pro Vertrag liegt zwischen 1-25. Die meistenVERträge umfassen 1-5 Lizenzen.
+Dei Nutzerrollen umfassen unterschiedliche Bibliothekarische Aufgaben und Leser. Die Leserrollen schwanken zwischen Schüler und Externer Forschung.
+Die Nutzung wird in Dauer in Min erfasst. Über einund ausloggen.
 ## Insert
 - lizenznutzung hat Anmerkungen zur Nutzungsintensität
 ## SQL Code

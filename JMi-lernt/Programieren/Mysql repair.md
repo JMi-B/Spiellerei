@@ -20,3 +20,7 @@ Beim Versuch Rechte zu vergeben
 ```
 cd C:\xampp\mysql\bin
 mysqlcheck -A -u root -r
+
+"C:\xampp\mysql\data\aria_log_control"
+löschen wenn der Fehler
+ [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
