@@ -11,33 +11,46 @@
             "id": "96710377f2a99118",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog/Das Sekretariat wird gegründet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Das Sekretariat wird gegründet"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           },
           {
             "id": "0c25a693ecf0f007",
             "type": "leaf",
             "state": {
+              "type": "big-calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
+            }
+          },
+          {
+            "id": "bdbd4df93fff8d61",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Die P's entwurf.canvas",
+                "viewState": {
+                  "x": 465,
+                  "y": -270,
+                  "zoom": -0.6734004653887402
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Die P's entwurf"
+            }
+          },
+          {
+            "id": "a2c0a9e06d1eaf7b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +65,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "die-ps-250828_0903"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SZB",
+                "query": "tag:#Schreiben",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/2025-12-21.md",
+                "file": "Meine Schreibprojekte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 2025-12-21"
+              "title": "Rückverweise für Meine Schreibprojekte"
             }
           },
           {
@@ -177,24 +190,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/2025-12-21.md",
+                "file": "Die P's entwurf.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-12-21"
+              "title": "Gliederung von Die P's entwurf"
+            }
+          },
+          {
+            "id": "edb6c8a146f2e5df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Neue Base erstellen": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -204,15 +232,32 @@
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "0c25a693ecf0f007",
+  "active": "bdbd4df93fff8d61",
   "lastOpenFiles": [
-    "Unbenannt.md",
-    "Backlog/Das Sekretariat wird gegründet.md",
-    "Tagebuch/2025-12-21.md",
-    "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
+    "HierGehtsLos/Sicherung Milanote/die-ps-250828_0903.md",
+    "Die P's entwurf.canvas",
+    "HierGehtsLos/Sicherung Milanote/canvas_die-ps-250914_0831.png",
+    "Juliane_Bonenkamp_DSC_6295s-02.jpg",
+    "fbw-nachweis-weiterbildungspraemie-sgbiii_ba042099.pdf",
+    "HierGehtsLos/Sicherung Milanote/bilder-250902_0637.md",
     "Backlog/Wie geht es weiter.md",
-    "Backlog/Ideen Box.md",
     "Backlog/KAKEBO.md",
+    "Meine Schreibprojekte.md",
+    "HierGehtsLos/Sicherung Milanote/steampunk-250901_0632.md",
+    "Tagebuch/2026-01-04.md",
+    "Tagebuch/2026-01-05.md",
+    "Backlog/Ideen Box.md",
+    "HierGehtsLos/Sicherung Milanote/prsentations-ideen-250901_0632.md",
+    "Backlog/Das Sekretariat wird gegründet.md",
+    "Tagebuch/10_September/2025-09-04.md",
+    "HierGehtsLos/Sicherung Milanote/schreiben-250827_0619.md",
+    "Backlog/Arbeitsplatz.md",
+    "HierGehtsLos/Sicherung Milanote/daily-log-250902_0638.md",
+    "HierGehtsLos/Sicherung Milanote/Import von Milanote.md",
+    "Tagebuch/2026-01-03.md",
+    "Tagebuch/12_Dezember/2025-12-14.md",
+    "Tagebuch/12_Dezember/2025-12-07.md",
+    "Tagebuch/2025-12-21.md",
     "Tagebuch/10_September/2025-09-02.md"
   ]
 }
