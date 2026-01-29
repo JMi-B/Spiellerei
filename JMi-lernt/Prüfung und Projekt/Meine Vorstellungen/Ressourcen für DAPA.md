@@ -1,1 +1,0 @@
-https://it-berufe-podcast.de/projektdokumentation-fachinformatiker-daten-und-prozessanalyse-von-maik-walter-mit-93-bewertet/
