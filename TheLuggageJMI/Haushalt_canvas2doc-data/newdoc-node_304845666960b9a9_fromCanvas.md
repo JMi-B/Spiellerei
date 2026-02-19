@@ -1,0 +1,16 @@
+Abwasch
+	- Besteck
+	- Teller
+	- Große Teile
+	- Becher
+	- Glass
+	- Plastik
+- Müll entsorgen
+	- Papier
+	- Bio
+	- Gelbersack
+	- Rest
+	- Glass
+	- Pfand
+- Oberfächen
+- Ordnungsinseln

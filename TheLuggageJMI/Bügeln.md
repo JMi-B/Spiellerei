@@ -1,0 +1,19 @@
+- Neues Arbeitsbügeleisen
+	- aus Neu wird Arbeitsbügeleisen
+- [?] Wo ist mein Bügelplatz?
+	- ich nutze nur das kleine  Brett zum Nähen
+- [?] Wann bügele ich
+- [?] Was bügele ich
+	- Haushalt
+		- Küchentücher
+		- Taschentücher
+		- Tischdecken
+	- Kleidung
+		- Hemden
+		- Hosen, Röcke, Kleider
+	- Bügeln beim Nähen
+	- BügelPerlen
+- Bügeln hat was beruhigendes
+	- Haushaltswäsche vor dem Fernseher
+- pflege meiner #Wardrobe
+	- Nicht zu bügeln hindert, mich meinen Styl zu entwickeln

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1973cdec16df6be4","type":"group","x":-470,"y":-447,"width":940,"height":895,"label":"Haushalt"},
+		{"id":"c2d6e0a6370fa299","type":"text","text":"[[Bügeln]]","x":-450,"y":-317,"width":250,"height":60},
+		{"id":"304845666960b9a9","type":"text","text":"Abwasch\n\t- Besteck\n\t- Teller\n\t- Große Teile\n\t- Becher\n\t- Glass\n\t- Plastik\n- Müll entsorgen\n\t- Papier\n\t- Bio\n\t- Gelbersack\n\t- Rest\n\t- Glass\n\t- Pfand\n- Oberfächen\n- Ordnungsinseln","x":-425,"y":-197,"width":450,"height":437},
+		{"id":"5d64bd884c9c2312","type":"text","text":"Haussegen\n- Fegen\n- Staubsagen\n- Müll\n- Abwasch\n- Bad putzen\n- Kühlschrank","x":-200,"y":-292,"width":250,"height":220},
+		{"id":"6633670de91c19b5","type":"text","text":" Tische\n- Sofa\n- Flurhocker\n- Herrendiener\n- Schuhe\n### Haussegen\n- Staubsaugen\n\t- Wischen\n- Badputzen\n- Kühlschrank decluttern\n#### Wann\n- Samstag\n### Waschen\n- Kleidung\n\t- Unterwäsche\n\t- Oberbekleidung\n\t- Feinwäsche\n- Haushalt\n\t- Handtücher\n\t- Feudel\n\t- Bettwäsche\n- Bügeln\n- Wäsche zusammenlegen","x":50,"y":-427,"width":400,"height":855}
+	],
+	"edges":[]
+}
