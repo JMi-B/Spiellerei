@@ -153,17 +153,24 @@
             "id": "b4b4ea4c37c2d4ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Haushalt.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0.5000000000000284,
-                  "zoom": -0.033354312131511875
+                "file": "Tagebuch/10_September/2025-09-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Haushalt"
+              "icon": "lucide-file",
+              "title": "2025-09-01"
             }
           }
         ],
@@ -330,8 +337,12 @@
   },
   "active": "b4b4ea4c37c2d4ff",
   "lastOpenFiles": [
-    "Die P's entwurf.canvas",
+    "Test Sicherheit/Unbenannt.md",
+    "Tagebuch/10_September/2025-09-01.md",
+    "Test Sicherheit",
+    "Tagebuch/10_September/2025-08-29.md",
     "Haushalt.canvas",
+    "Die P's entwurf.canvas",
     "Haushalt_fromCanvas.md",
     "Haushalt_canvas2doc-data/newdoc-node_6633670de91c19b5_fromCanvas.md",
     "Haushalt_canvas2doc-data/newdoc-node_5d64bd884c9c2312_fromCanvas.md",
